@@ -1,3 +1,20 @@
+# Info
+site_name: GroningenRP Regels
+site_url: 'https://regels.groningenrp.nl.nl/'
+site_description: 'GroningenRP regels'
+site_author: 'MeetixMedia'
+
+# Repo
+repo_url: 'https://github.com/GroningenRoleplay/GroningenRP-Regels'
+repo_name: 'GroningenRoleplay/GroningenRP-Regels'
+edit_uri: 'https://github.com/GroningenRoleplay/GroningenRP-Regels/tree/main/docs'
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2023 GroningenRP
+
+
+
+#Config
 site_name: GroningenRP regels
 theme:
   name: material
