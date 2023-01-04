@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Regels GroningenRP
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Iedereen dient zich aan de regels te houden.
 
-## Commands
+Het breken van de regels kan resulteren in een ban.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Voordat je gaat spelen
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Zorg dat je de Algemene regels hebt gelezen.
+* Gebruik je gezond verstand, twijfel je? Vraag een stafflid!
+* Fout gevonden? Maak een issue aan of een PullRequest
+
+## GroningenRP Discords
+
+| Server | Info | Invite |
+|---|---|:---:|
+| GroningenRP | Discord voor informatie, community en gezellig praten| [Invite](https://discord.gg/groningenrp) |
+| GroningenRP Support | Discord voor reports, bans, tickets etc | [Invite](https://discord.gg/GrSupport) |
+| GroningenRP Bedrijven | Hier vind je bijvoorbeeld de cardealer of andere bedrijven. Je kan hier ook winkels en bedrijven kopen! | [Invite](https://discord.gg/GrSupport) |
