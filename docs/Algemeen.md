@@ -16,8 +16,8 @@ Een voorbeeld hiervan is bijvoorbeeld: /me pakt persoon vast, bind vast en sleep
 2. Het gebruik maken van de /me command is enkel toegestaan in bepaalde situaties. Dit houd dus in dat het gebruik maken ervan in een roleplay scenario om iemand uit te schelden bijvoorbeeld niet is toegestaan. Ook het misbruik maken door dingen te vermelden die er zijn gebeurd via /me is niet toegestaan. Indien een stafflid jou benadert en je microfoon doet het niet is het daarentegen wel toegestaan om even te reageren in /me.
 Het /me command mag enkel gebruikt worden in roleplay scenario's wanneer het een betekenis heeft. Geef bijvoorbeeld je pols aan, laat handboeien wat losser gaan door deze command of dat soort scenario's. 
 
-Je dient mee te werken aan: 
-"/me pakt communicatie middelen en dienstwapens af"
+3. Je dient mee te werken aan: 
+"/me pakt communicatie middelen en dienst)wapens af" 
 
 De overtreding van Wet 1.2 (Powergaming) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -103,7 +103,6 @@ De overtreding van Wet 1.12 (Racisme & Taalgebruik) zal resulteren in een straf 
 ## 1.13 - Combatlogging
 
 Het uitloggen om een roleplay scenario te voorkomen is niet toegestaan. Stel je word overvallen en je logt net uit voordat degene jou kan overvallen valt dit onder combatlogging.
-
 Omdat wij streng tegen het combatloggen zijn en het toch vaak gebeurt zullen er vanaf nu consequenties bovenop de ban volgen.
 
 - Je complete inventory zal ingeleverd dienen te worden bij het management team.
@@ -166,7 +165,7 @@ Deel 1 omvat de volgende onderwerpen:
 - Benodigde wapens tijdens overvallen
 - Overvallen tijdens evenementen
 - Overvallen op drugs locatie(s)
-- Verkoop via telefoon
+- Verkoop via telefoons
 
 ## 2.1.1 - Daken
 
@@ -190,6 +189,7 @@ Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder gesch
 Indien dit niet het geval is is het verboden om dit transport te overvallen.
 
 4. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
+Tevens is het ook niet toegestaan om ambulance of anwb'ers te ontvoeren
 
 5. Voor het plegen van een overval dient er een minimaal aantal agenten (KMar & Politie) in-dienst te zijn. Deze zullen hieronder vermeld worden. 
 
@@ -201,6 +201,8 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 - Casino: 10+ Agenten
 - G4S: 12+ Agenten
 - Jacht: 10+ Agenten
+
+6. Bij het ontvoeren van burgers is het niet toegestaan ze hierbij te rippen, enkel communicatie middelen mogen afgepakt worden, (bij "/me pakt wapens af" worden wapens wel fictief afgenomen)
 
 De overtreding van Wet 2.1.2 (Overvallen & Wapens) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -218,6 +220,7 @@ Zodra je iemand overvallen hebt en hij/zij heeft goed meegewerkt dan is het niet
 
 Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze staan hieronder vermeld.
 
+- Overschot aan kogels (Politie & Koninklijke Marechaussee).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
 - Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
 - Het Kofferbakken leeghalen van standaard job voertuigen.
@@ -226,7 +229,7 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 - Custom sleutels/pasjes van MLO's.
 - Indien je een wapen signaleerd bij iemand is het na 40 minuten niet meer toegestaan diegene te rippen hiervoor.
 
-2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezichtsbedekkende kleding of bovenstaande regels.
+2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezicht bedekkende kleding of bovenstaande regels.
 Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
 
 3. Het opzetten van een deal met de intentie iemand te bestelen van zijn goederen is niet toegestaan (ripdeal).
@@ -277,11 +280,11 @@ Het is niet toegestaan om illegale goederen te verhandelen via de telefoon. Uite
 
 Hieronder vallen de onderstaande dingen:
 
-- Handwapens
-- Slagwapens (inclusief knuppel en 'keukenmes')
-- Vuurwapens
-- Drugs
-- Witwas praktijken
+Handwapens
+Slagwapens (inclusief knuppel en 'keukenmes')
+Vuurwapens
+Drugs
+Witwas praktijken
 
 De overtreding van Wet 2.1.8 (Verkoop via telefoon) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -399,13 +402,13 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 
 ## 3.1 - GTA Rijstyle
 
-1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
+1. GTA rijstyle houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
 
-- Bijvoorbeeld met 200 km/h ± door de stad(bebouwde kom) rijden of niet afremmen voor bijvoorbeeld kruispunten.
+- Met 200 km/h + door de stad rijden. ( bebouwde kom ) 
 - Offroad met voertuigen die daar niet voor bedoeld zijn.
 - Het nemen van zogenoemde jumps.
 - Het opzettelijk inrijden op personen of objecten.
-- En **al** het onrealistische rijgedrag wat je **normaal** ook niet tegenkomt op de Nederlandse wegen IRL.
+- En al het onrealistische rijgedrag wat je normaal ook niet tegenkomt op de Nederlandse wegen IRL.
 
 2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten.
 Het beuken met auto's alsof je in een botsauto zit is NIET toegestaan. Dit geldt ook voor overheidsdiensten.
@@ -422,8 +425,8 @@ Het zogenaamd "stelen" hiervan om het vervolgens aan te doen is ook niet toegest
 2. Het is verplicht om realistische kleding te dragen. Het dragen van kleding dat gebugged is, onrealistische kleding (legerhelmen, eenhoornmaskers etc.) is niet toegestaan.
 Zodra je de stad binnenkomt is het belangrijk dat je je outfit wijzigt. Dit omdat het niet is toegestaan om als standaard zogenoemd "skinhead" rond te lopen en je je normaal dient te kleden.
 
-3. Het dragen van gezichtsbedekkende kleding is enkel toegestaan wanneer jij bezig bent met criminele activiteiten. Denk hierbij aan een overval of het produceren/kweken van drugs.
-Indien je niet in een crimineel roleplay scenario zit dien je je gezichtsbedekkende kleding per direct uit/af te doen.
+3. Het dragen van gezicht bedekkende kleding is enkel toegestaan wanneer jij bezig bent met criminele activiteiten. Denk hierbij aan een overval of het produceren/kweken van drugs.
+Indien je niet in een crimineel roleplay scenario zit dien je je gezicht bedekkende kleding per direct uit/af te doen.
 
 4. Het dragen van helmen is toegestaan indien je op een motor, scooter of ander voertuig rijdt waarbij dit volgens de wetgeving verplicht is. Het dragen hiervan zonder deze voertuigen is niet toegestaan.
 
@@ -439,7 +442,6 @@ Het scammen bij de witwas is onder geen enkele vooorwaarde toegestaan.
 
 De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-
 ## 3.5 - Vluchten 
 
 Indien je vlucht van een overheidsinstantie dien je dit te doen met een reden. Een boete, stoplicht passeren die op rood staat is geen geldige reden. 
@@ -452,3 +454,9 @@ Het is niet toegestaan om bounties op iemand zijn "hoofd" te zetten.
 Ook het inhuren van een huurmoordenaar is niet toegestaan.
 
 De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+## 3.7 Parachute
+
+Parachute springen is enkel toegestaan wanneer je in het bezit bent van een (overheids)vliegbrevet.
+Het is niet toegstaan om als piloot uit een vliegtuig te springen om een parachute te gebruiken.
+Je mag alleen landen op open plekken zoals: grasvelden, havengebied (Landen op daken en tussen gebouwen is niet toegestaan)
