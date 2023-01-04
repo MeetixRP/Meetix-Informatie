@@ -18,3 +18,13 @@ copyright: Copyright &copy; 2019 - 2023 GroningenRP
 site_name: GroningenRP regels
 theme:
   name: material
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Donkere modus
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: ichte modus
