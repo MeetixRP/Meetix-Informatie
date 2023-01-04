@@ -28,3 +28,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: ichte modus
+#Navigeer
+nav:
+  - Welkom: index.md
+  - Algemene regels: Algemeen.md
