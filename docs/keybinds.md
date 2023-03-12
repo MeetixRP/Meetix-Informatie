@@ -1,41 +1,46 @@
 # Keybinds ingame
 
-++N++ = Praten in voicechat
+## Karakter
 
-++n++ Praten
+++t++ = Chat openen
+
+++n++ = Praten in voicechat
 
 ++m++ Telefoon openen
 
-++`++   Porto praten
+++grave++ Praten in een Portofoon
 
 ++k++  Handen omhoog
 
 ++b++  Wijzen
 
+++p++ Open pauze menu
+
+++page-up++ Praat indicaties inschakelen
+
+++page-down++ Geef speler ID's weer
+
+++z++ Voice-chat radius veranderen
+
+++f1++ Open speler menu
+
+++f2++ Open inventory
+
+++f7++ Open kledingmenu
+
+++delete++ Speler lijst bekijken
+
+
+## Voertuig
+
 ++f++ in/uit voertuig stappen
 
 ++u++  Voertuig sloten
 
-++ l ++  Kofferbak
-
-++ = ++  Cruisecontrol
+++"L"++  Kofferbak
 
 ++g++ Gordel om/af doen
 
-++p++ Map
-
-++pageUp++ praat indicatie
-
-++pageDown++ Speler ID zien
-
-++z++ Voice-chat radius veranderen
-
-++F1++ Open speler menu
-
-++F2++ Open inventory
-
-++F7++ Open kledingmenu
-
-++DEL++ Speler lijst bekijken
+++equal++  Cruisecontrol inschakelen
 
 # Commands ingame
