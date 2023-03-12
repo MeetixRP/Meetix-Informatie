@@ -1,4 +1,6 @@
 # Keybinds ingame (QWERTY)
+Keybinds zijn te wijzigen in het ++escape++ menu (++escape++ > Settings > Keybinds > FiveM)
+
 
 ## Karakter
 
@@ -36,6 +38,8 @@
 
 ++v++ Firstperson/Thirdperson
 
+++c++ Achterom kijken / Beveiliging/fire mode van wapen
+
 
 ## Voertuig
 
@@ -51,16 +55,16 @@
 
 # Commands ingame
 
-++"/report"++ ++"Bericht"++- (Report maken voor staff)
+++"/report"++ ++"Bericht"++- Report maken voor staff
 
-++"/verkoopvoertuig"++ ++"ID"++ ++"Kenteken"++ - ("/verkoop voertuig 987 ABC123")
+++"/verkoopvoertuig"++ ++"ID"++ ++"Kenteken"++ - Schrijf je kenteken over naar een speler
 
-++"/deelsleutel"++ ++"ID"++ - (Voertuigsleutel delen)
+++"/deelsleutel"++ ++"ID"++ - Deel sleutel van je voertuig
 
-++"/repareer"++ (Voertuig repareren bij minder dan 3 ANWB in-dienst)
+++"/repareer"++ Repareer voertuig (Alleen mogelijk bij onvoldoende ANWB indienst)
 
-++"/bank"++ - (De bank app openen)
+++"/bank"++ - Open de Bank app
 
-++"/shuff"++ - (Verplaatsen van stoel)
+++"/shuff"++ - Verplaats van stoel
 
-++"/stoel"++ ++"0-16"++ - (Verplaatsen van stoel)
+++"/stoel"++ ++"0-16"++ - Verplaats van stoel, naar gewenst stoelnummer.
