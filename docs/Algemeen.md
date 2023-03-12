@@ -213,7 +213,8 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
 
 1. Het overvallen (rippen) van spelers is toegestaan. Dit echter wel met hieraan bepaalde regels gekoppeld.
 Er dient ten alle tijden een goede reden achter het overvallen te zitten. Indien dit niet het geval is kunnen hier sancties op gelegd worden.
-Het rippen van iemand met leger kledij of maskers is daarentegen wel toegestaan. 
+Het rippen van iemand met leger kledij of maskers is daarentegen wel toegestaan.
+Er geld een uitzondering op bivakmutsen ONDER een motorhelm (dragend op een motor).
 Zodra je iemand overvallen hebt en hij/zij heeft goed meegewerkt dan is het niet toegestaan om diegene van het leven te beroven. 
 
 Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze staan hieronder vermeld.
@@ -230,6 +231,9 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
 
 3. Het opzetten van een deal met de intentie iemand te bestelen van zijn goederen is niet toegestaan (ripdeal).
+
+4. Het rippen van personen die behandeld worden door ambulance, of het opwachten van een behandeling om hierna te rippen is ook niet toegestaan.
+
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -289,6 +293,7 @@ De overtreding van Wet 2.1.8 (Verkoop via telefoon) zal resulteren in een straf 
 
 Het produceren, kweken of genereren van illegale goederen in custom MLO's/gebouwen is niet toegestaan. 
 Ook is het niet toegestaan om te produceren of wiet te kweken op daken die niet toegankelijk zijn zonder helikopters of vliegtuigen.
+Tevens is het plaatsen van tuin-tafels niet toegestaan op openbare wegen en/of gebouwen
 
 De overtreding van Wet 2.1.9 (Wiet Potten) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
