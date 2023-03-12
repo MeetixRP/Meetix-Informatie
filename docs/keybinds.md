@@ -1,4 +1,4 @@
-# Keybinds ingame
+# Keybinds ingame (QWERTY)
 
 ## Karakter
 
@@ -30,6 +30,12 @@
 
 ++delete++ Speler lijst bekijken
 
+++shift++ + ++k++ Zitten op knieën + Handen omhoog
+
+++x++ Annuleer emotes
+
+++v++ Firstperson/Thirdperson
+
 
 ## Voertuig
 
@@ -44,3 +50,17 @@
 ++equal++  Cruisecontrol inschakelen
 
 # Commands ingame
+
+++"/report"++ ++"Bericht"++- (Report maken voor staff)
+
+++"/verkoopvoertuig"++ ++"ID"++ ++"Kenteken"++ - ("/verkoop voertuig 987 ABC123")
+
+++"/deelsleutel"++ ++"ID"++ - (Voertuigsleutel delen)
+
+++"/repareer"++ (Voertuig repareren bij minder dan 3 ANWB in-dienst)
+
+++"/bank"++ - (De bank app openen)
+
+++"/shuff"++ - (Verplaatsen van stoel)
+
+++"/stoel"++ ++"0-16"++ - (Verplaatsen van stoel)
