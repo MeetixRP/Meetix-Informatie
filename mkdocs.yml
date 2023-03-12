@@ -34,3 +34,7 @@ nav:
   - Algemene regels: Algemeen.md
   - Offroad voertuigen: offroad.md
   - Toetscombinaties: keybinds.md
+# Extensions
+
+markdown_extensions:
+  - pymdownx.keys
