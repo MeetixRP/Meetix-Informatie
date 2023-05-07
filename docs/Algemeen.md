@@ -119,6 +119,8 @@ De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 
 
 2. Tijdens het produceren van meth is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan dus ten alle tijden uit de garage te laten of je meth ergens anders op te slaan.
 
+Heb je een wapen gebruikt. Is het NIET toegestaan deze binnen 15 minuten in een kofferbak of kluis te leggen
+
 De overtreding van Wet 1.14 (Combat storing) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.15 - New Life Rule (NLR)
@@ -225,12 +227,12 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 - Custom kentekens van spelers.
 - BakkerBV goederen.
 - Custom sleutels/pasjes van MLO's.
-- Indien je een wapen signaleerd bij iemand is het na 40 minuten niet meer toegestaan diegene te rippen hiervoor.
+- Indien je een wapen signaleerd bij iemand is het tot de volgende ochtend 06:00 toegestaan diegene te rippen hiervoor. Na 06:00 niet meer.
 
 2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezichtsbedekkende kleding of bovenstaande regels.
 Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
 
-3. Het opzetten van een deal met de intentie iemand te bestelen van zijn goederen is niet toegestaan (ripdeal).
+3. Het opzetten van een deal met de intentie iemand te bestelen van zijn goederen (ripdeal) is wel toegestaan, (Aan een ripdeal zit GEEN max bedrag)
 
 4. Het rippen van personen die behandeld worden door ambulance, of het opwachten van een behandeling om hierna te rippen is ook niet toegestaan.
 
