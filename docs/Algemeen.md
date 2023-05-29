@@ -170,6 +170,15 @@ Deel 1 omvat de volgende onderwerpen:
 - Overvallen op drugs locatie(s)
 - Verkoop via telefoon
 
+## 1.19 Vrijheidsontneming
+Het is niet toegestaan om iemands vrijheid langer dan 30 minuten ONNODIG te beperken.
+
+Een aantal voorbeelden hiervan: 
+- Voorarrest mag niet langer als 30 minuten duren, binnen 30 minuten moet het strafprocess in gang gezet zijn.
+- Voor een overval of hostage situatie mogen agenten en/of criminelen niet langer dan 30 minuten gegijzeld worden zonder dat deze gestart is en in gang gezet is.
+
+Nadat de 30 minuten verstreken zijn, Dien je persoon ongedeerd vrij te laten
+
 ## 2.1.1 - Daken
 
 Tijdens het plegen van een overval is het niet toegestaan om derden op een dak te plaatsen om vanaf daar op de overheid te schieten.
@@ -346,7 +355,7 @@ Het is niet toegestaan om spelers of overheidsinstanties uit te lokken indien er
 De overtreding van Wet 2.2.6 ((Cop)baiting) zal resulteren in een straf van de 2ᵉ categorie.
 
 
-### Regel 2.2.7 Overheidsvoertuigen
+## Regel 2.2.7 Overheidsvoertuigen
 
 Overheidsvoertuigen stelen:
 Achter het stelen van overheidsvoertuigen moet ten alle tijd goede RP zitten.
