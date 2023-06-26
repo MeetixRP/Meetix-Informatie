@@ -426,7 +426,7 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten.
 Het beuken met auto's alsof je in een botsauto zit is NIET toegestaan. Dit geldt ook voor overheidsdiensten.
 
-3. Bestuurders van motoren mogen tot maximaal 50 km/h van hun motor afgereden worden, Alles daarboven niet meer en zal vallen onder bovengenoemd GTA Drivestyle, Let erop dat het zo realistisch mogelijm moet zijn, Houdt er ook rekening mee dat iemand hierna mogelijk letsel kan hebben en dat je hier goede roleplay aan verbind.
+3. Bestuurders van motoren mogen tot maximaal 50 km/h van hun motor afgereden worden, Alles daarboven niet meer en zal vallen onder bovengenoemd GTA Drivestyle, Let erop dat het zo realistisch mogelijk moet zijn, Houdt er ook rekening mee dat iemand hierna mogelijk letsel kan hebben en dat je hier goede roleplay aan verbind.
 
 4. Het (opzettelijk) pitten met een "super of hypercar" is NIET toegestaan
 
