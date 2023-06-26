@@ -16,5 +16,5 @@ Het breken van de regels kan resulteren in een ban.
 | Server | Info | Invite |
 |---|---|:---:|
 | GroningenRP | Discord voor informatie, community en gezellig praten| [Invite](https://discord.gg/groningenrp) |
-| GroningenRP Support | Discord voor reports, bans, tickets etc | [Invite](https://discord.gg/GrSupport) |
-| GroningenRP Bedrijven | Hier vind je bijv de cardealer of andere bedrijven. | [Invite]([https://discord.gg/GrSupport](https://discord.gg/fY7DGkQ9Cv)) |
+| GroningenRP Support | Discord voor reports, bans, tickets etc | [Invite](https://discord.com/invite/ecB2n4DeNA) |
+| GroningenRP Bedrijven | Hier vind je bijv de cardealer of andere bedrijven. | [Invite](https://discord.gg/fY7DGkQ9Cv) |
