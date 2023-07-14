@@ -1,4 +1,6 @@
 # Keybinds ingame (QWERTY)
+ALLEEN de "QWERTY" indeling word ondersteund!
+
 Keybinds zijn te wijzigen in het ++escape++ menu (++escape++ > Settings > Keybinds > FiveM)
 
 
@@ -68,3 +70,5 @@ Keybinds zijn te wijzigen in het ++escape++ menu (++escape++ > Settings > Keybin
 ++"/shuff"++ - Verplaats van stoel
 
 ++"/stoel"++ ++"0-16"++ - Verplaats van stoel, naar gewenst stoelnummer.
+
+++"/hud"++ - Pas de hud aan, zet delen op een gewenste plek of pas de style aan.
