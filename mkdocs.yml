@@ -32,7 +32,7 @@ theme:
 nav:
   - Welkom: index.md
   - Server regels:
-    - Algemene regels: Algemeen.md
+    - Algemene regels: algemeneregels.md
     - Offroad voertuigen: offroad.md
   - Toetscombinaties: keybinds.md
 # Extensions
