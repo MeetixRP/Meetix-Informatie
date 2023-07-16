@@ -31,8 +31,9 @@ theme:
 #Navigeer
 nav:
   - Welkom: index.md
-  - Algemene regels: Algemeen.md
-  - Offroad voertuigen: offroad.md
+  - Server regels:
+    - Algemene regels: Algemeen.md
+    - Offroad voertuigen: offroad.md
   - Toetscombinaties: keybinds.md
 # Extensions
 
