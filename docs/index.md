@@ -11,7 +11,7 @@ Vind hier informatie en regels ingame.
 * Gebruik je gezond verstand, twijfel je? Vraag een stafflid!
 * Fout gevonden? Maak een issue aan of een PullRequest
 
-## GroningenRP Discords
+## Meetix Discords
 
 | Server | Info | Invite |
 |---|---|:---:|
