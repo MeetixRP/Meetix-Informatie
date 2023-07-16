@@ -1,12 +1,12 @@
-# Regels GroningenRP
+# Informatie pagina Meetix
 
-Iedereen dient zich aan de regels te houden.
+Vind hier informatie en regels ingame.
 
-Het breken van de regels kan resulteren in een ban.
 
 
 ## Voordat je gaat spelen
 
+* Lees informatie door
 * Zorg dat je de Algemene regels hebt gelezen.
 * Gebruik je gezond verstand, twijfel je? Vraag een stafflid!
 * Fout gevonden? Maak een issue aan of een PullRequest
@@ -15,6 +15,6 @@ Het breken van de regels kan resulteren in een ban.
 
 | Server | Info | Invite |
 |---|---|:---:|
-| GroningenRP | Discord voor informatie, community en gezellig praten| [Invite](https://discord.gg/groningenrp) |
-| GroningenRP Support | Discord voor reports, bans, tickets etc | [Invite](https://discord.com/invite/ecB2n4DeNA) |
-| GroningenRP Bedrijven | Hier vind je bijv de cardealer of andere bedrijven. | [Invite](https://discord.gg/fY7DGkQ9Cv) |
+| Meetix | Discord voor informatie, community en gezellig praten| [Invite](https://discord.gg/groningenrp) |
+| Meetix Support | Discord voor reports, bans, tickets etc | [Invite](https://discord.com/invite/ecB2n4DeNA) |
+| Meetix Bedrijven | Hier vind je bijv de cardealer of andere bedrijven. | [Invite](https://discord.gg/fY7DGkQ9Cv) |
