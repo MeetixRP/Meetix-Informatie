@@ -5,9 +5,9 @@ site_description: 'Meetix informatie'
 site_author: 'MeetixMedia'
 
 # Repo
-repo_url: 'https://github.com/GroningenRoleplay/GroningenRP-Regels'
-repo_name: 'GroningenRoleplay/GroningenRP-Regels'
-edit_uri: 'https://github.com/GroningenRoleplay/GroningenRP-Regels/tree/main/docs'
+repo_url: 'https://github.com/Meetix/Meetix-Informatie'
+repo_name: 'Meetix/Meetix-Informatie'
+edit_uri: 'https://github.com/Meetix/Meetix-Informatie/tree/main/docs'
 
 # Copyright
 copyright: Copyright &copy; 2019 - 2023 Meetix
