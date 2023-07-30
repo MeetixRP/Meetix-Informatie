@@ -1,6 +1,6 @@
 # Community websites 
 
-| Website | Info | Url |
+| Bedrijf | Info | Url |
 |---|---|:---:|
 | Informatie | Regels, toestcombinaties etc. | [Navigeer](https://info.meetix.nl/) |
 | ANWB | De noodhulp bij pech | [Navigeer](https://anwb-meetix.nl/) |
