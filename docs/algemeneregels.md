@@ -279,7 +279,7 @@ De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf 
 Het rippen op de meeste plekken is toegestaan, echter zijn er een aantal uitzonderingen.
 
 1. Het rippen op statische locaties is NIET toegestaan. 
-Denk hier bijvoorbeeld aan drugs-locaties, inpak locaties en verkooplocaties (Lester als voorbeeld) die niet dagelijks veranderen
+Denk hier bijvoorbeeld aan drugs-locaties, inpak locaties en verkooplocaties die niet dagelijks veranderen
 
 Het rippen op locaties die wel veranderen is echter wel toegestaan.
 Denk hier bijvoorbeeld aan drubs-labs, campers, tuintafels etc.
