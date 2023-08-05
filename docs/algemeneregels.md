@@ -34,6 +34,8 @@ De overtreding van Wet 1.3 (Verstoring van RP) zal resulteren in een straf van d
 Onder de categorie "RDM" valt het vermoorden van een speler zonder enige intentie van kwalitatieve roleplay. Iemand dient ten alle tijden een mogelijkheid hebben om er iets tegen in ruil te doen.
 Het vermoorden van iemand doormiddel van het naar iemand toelopen, hostagen en gelijk doodschieten is dus ten alle tijden verboden en gaat tegen de regels in.
 
+Het onnodig naschieten om iemand de kans tot overleven te ontnemen is tevens niet toegestaan
+
 De overtreding van Wet 1.4 (RDM) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.5 - Vehicle Deathmatch (VDM)
@@ -272,24 +274,31 @@ Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon he
 
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.1.6 Campen op een drugs locatie
+## 2.1.6 Rippen op (drugs)locaties
 
-Het is niet toegestaan om mensen te rippen op en rondom drugslocaties. Hiermee wordt ook de startpositie bedoelt (waar je aanklopt).
-Ook het rippen rondom een cocaïne farm van minimaal 100 meter is niet toegestaan (tenzij je een rode marker krijgt op de map).
-Het iemand forceren uit een bepaalde drugs locatie om hem vervolgens dood te schieten of iets is daarentegen ook niet toegestaan.
-Het is ook niet toegestaan om naar een drugs locatie te rijden om het te voorkomen overvallen te worden.
-Stel de RP start al voordat dit gebeurt is dan is het uiteraard WEL toegestaan om de RP tijdens af te maken. 
-Maak hier wel een clip bij zodat je jezelf goed kunt verdedigen tijdens een mogelijke staffzaak.
+Het rippen op de meeste plekken is toegestaan, echter zijn er een aantal uitzonderingen.
 
-De overtreding van Wet 2.1.6 (Campen op een drugs locatie) zal resulteren in een straf van de 2ᵉ categorie.
+1. Het rippen op statische locaties is NIET toegestaan. 
+Denk hier bijvoorbeeld aan drugs-locaties, inpak locaties en verkooplocaties (Lester als voorbeeld) die niet dagelijks veranderen
 
-## 2.1.7 - Overvallen op locaties
+Het rippen op locaties die wel veranderen is echter wel toegestaan.
+Denk hier bijvoorbeeld aan drubs-labs, campers, tuintafels etc.
 
-Het is binnen Groningen niet toegestaan om personen te rippen op de volgende locaties:
+2. Ook is het NIET toegestaan om mensen te forceren uit een niet rip-bare locatie te komen om ze vervolgens alsnog van hun spullen te beroven of te vermoorden.
 
-- Witwas locatie (waar dit ook is, ook als het via officiële personen gebeurt).
+3. Het vluchten naar zo'n locatie om jezelf veilig te stellen is ook niet toegestaan, hierbij mag de RP gewoon voortgezet worden
 
-De overtreding van Wet 2.1.7 (Overvallen op locaties) zal resulteren in een straf van de 2ᵉ categorie.
+4. Campen op of rondom deze locaties is ook NIET toegestaan
+
+De overtreding van Wet 2.1.6 (Rippen op een(drugs) locatie) zal resulteren in een straf van de 2ᵉ categorie.
+
+## 2.1.7 - Drugs-verkoop locaties
+
+Er dient altijd een goede reden te zijn om iemand te rippen.
+Het zien praten met een NPC is niet voldoende reden om persoon hier te overvallen.
+(Heeft persoon gezicht bedekkende kleding mag dit uiteraard wel)
+
+De overtreding van Wet 2.1.7 (Drugs-verkoop locaties) zal resulteren in een straf van de 2ᵉ categorie.
 
 ## 2.1.8 - Verkoop via telefoon
 
