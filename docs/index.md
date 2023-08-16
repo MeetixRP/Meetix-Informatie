@@ -15,6 +15,6 @@ Vind hier informatie en regels ingame.
 
 | Server | Info | Invite |
 |---|---|:---:|
-| Meetix | Discord voor informatie, community en gezellig praten| [Invite](https://discord.gg/groningenrp) |
+| Meetix | Discord voor informatie, community en gezellig praten| [Invite](https://discord.gg/meetix) |
 | Meetix Support | Discord voor reports, bans, tickets etc | [Invite](https://discord.com/invite/ecB2n4DeNA) |
 | Meetix Bedrijven | Hier vind je bijv de cardealer of andere bedrijven. | [Invite](https://discord.gg/fY7DGkQ9Cv) |
