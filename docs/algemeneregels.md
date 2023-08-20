@@ -431,7 +431,7 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 
 1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
 
-- Bijvoorbeeld met 200 km/h ± door de stad(bebouwde kom) rijden of niet afremmen voor bijvoorbeeld kruispunten.
+- Bijvoorbeeld met 100/150 km/h ± door de stad(bebouwde kom) rijden of niet afremmen voor bijvoorbeeld kruispunten.
 - Offroad met voertuigen die daar niet voor bedoeld zijn.
 - Het nemen van zogenoemde jumps.
 - Het opzettelijk inrijden op personen of objecten.
