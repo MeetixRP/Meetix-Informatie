@@ -40,7 +40,7 @@ Keybinds zijn te wijzigen in het ++escape++ menu (++escape++ > Settings > Keybin
 
 ++v++ Firstperson/Thirdperson
 
-++c++ Achterom kijken / Beveiliging/fire mode van wapen
+++y++ Cruise control inschakelen
 
 
 ## Voertuig
