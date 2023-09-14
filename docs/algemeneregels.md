@@ -6,7 +6,11 @@ Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden wo
 2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
 Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
 
-De overtreding van Wet 1 (FailRP) zal resulteren in een straf van de 2ᵉ categorie die iedere keer oploopt bij het overtreden hiervan.
+3. Het is  verboden om de duur van een overval of een ander scenario onnodig te rekken. 
+Spelers dienen actief mee te werken aan de roleplay en mogen niet bewust proberen om de situatie onredelijk te verlengen om hun rolvoordeel te vergroten. 
+Dit omvat het vermijden van acties die redelijkerwijs zouden leiden tot de voltooiing van de situatie. 
+(Ik rek tijd omdat mijn vrienden dan komen is hierdoor geen geldige reden)
+
 
 ## 1.2 - Powergaming
 
@@ -104,38 +108,39 @@ De overtreding van Wet 1.12 (Racisme & Taalgebruik) zal resulteren in een straf 
 
 ## 1.13 - Combatlogging
 
-Het uitloggen om een roleplay scenario te voorkomen is niet toegestaan. Stel je word overvallen en je logt net uit voordat degene jou kan overvallen valt dit onder combatlogging.
+Het is ten strengste verboden om uit te loggen (of de server te verlaten) tijdens een actieve confrontatie, achtervolging of een situatie waarin je wordt geconfronteerd met geweld. 
+Dit geldt voor zowel criminelen als  spelers bij een overheidsinstatie. 
+Als je betrokken bent bij een situatie waarin geweld plaatsvindt, moet je in het spel blijven en de situatie voltooien voordat je uitlogt.
 
-Omdat wij streng tegen het combatloggen zijn en het toch vaak gebeurt zullen er vanaf nu consequenties bovenop de ban volgen.
+Het Niet naleven van deze regel zal worden bestraft het volgende
 
 - Je complete inventory zal ingeleverd dienen te worden bij het management team.
 - Er zal je een boete ter waarde van €100.000,- ten laste gelegd worden die betaald dient te worden bij het management-team.
 - De rechten voor een gangmenu zullen afgenomen worden (indien je in het bezit bent van).
 - Er zal na je ban een 1 maand verbod liggen op het kopen van ook maar één ding bij de wapendealer.
 
-De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
-
-## 1.14 - Combat storing
+## 1.14 - Combat storing/stashing
 
 1. Het is niet toegestaan om je voertuig te plaatsen in een garage om een inbeslagname of rip actie te voorkomen.
 
-2. Tijdens het produceren van meth is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan dus ten alle tijden uit de garage te laten of je meth ergens anders op te slaan.
+2. Tijdens het produceren van drugs is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan dus ten alle tijden uit de garage te laten of je meth ergens anders op te slaan.
 
 Heb je een wapen gebruikt. Is het NIET toegestaan deze binnen 15 minuten in een kofferbak of kluis te leggen
 
-De overtreding van Wet 1.14 (Combat storing) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+3. Stashing:
+Het niet toegestaan om items, wapens, voertuigen of andere spullen te verbergen, door te geven of op te slaan tijdens een lopend of recentelijk beëindigd scenario (korter als 15 minuten) om ze later te herstellen of te gebruiken. 
+Alle items die een personage tijdens dit scenario had, moeten op een realistische manier worden behouden. Het bewust verbergen of stashen van items (of bijvoorbeeld een auto in garage zetten) om ze te behouden tijdens of na een gevecht of (eventuele) aanhouding wordt als regelovertreding beschouwd.
 
 ## 1.15 - New Life Rule (NLR)
 
-1. Wanneer je bent overleden omwille van wat voor reden dan is het verboden om het laatste roleplay scenario wat gezorgt heeft voor het overlijden te herinneren.
-Als er een god (staff-lid) is gekomen omdat er een van wetsartikelen is overtreden en hij aangeeft dat je geen new life rule krijgt is deze regel echter niet geldig en van kracht.
+Nadat je personage is gedood in een in-game situatie, dien je de gebeurtenissen en locatie van je dood te vergeten. 
+Je personage behoudt geen herinneringen aan de gebeurtenissen die hebben geleid tot zijn of haar dood (Dit ook niet wanneer dit verteld is aan je door bijvoorbeeld een vriend) 
+Je mag niet teruggaan naar de locatie van je dood om wraak te nemen of je oude vijanden te confronteren. 
+Het is ook verboden om acties te ondernemen tegenover degenen die betrokken waren bij je dood.
 
-2. Wanneer jij bent overleden en je bent gerespawned bij het ziekenhuis is het ten alle tijden verboden om terug te koppelen aan hetzelfde roleplay scenario.
-Als iemand jou bijvoorbeeld verteld wat er gebeurt is, dan is het ook niet toegestaan om je dit terug te herinneren. 
+- Wanneer je van het leven beroofd bent is het de komende 24 uur hierna niet toegestaan om deel te nemen aan een roleplay scenario tegenover de groep, gang of persoon waardoor je vermoord bent.
 
-3. Wanneer je van het leven beroofd bent is het de komende 24 uur hierna niet toegestaan om deel te nemen aan een roleplay scenario tegenover de groep, gang of persoon waardoor je vermoord bent.
-
-De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+- Als een RP-scenario door een moderator wordt afgekeurd kan een uitzondering op de NLR worden gemaakt (mits dit duidelijk uitgesproken is door de betreffende moderator).
 
 ## 1.16 - Third Party Mods
 
@@ -153,16 +158,15 @@ De overtreding van Wet 1.16 (Third Party Mods) zal resulteren in een straf van d
 
 ## 1.17 - Streamsnipen
 
-Het gebruik maken van informatie die verkregen is doormiddel van een video of door een livestream op een stream of videoplatvorm is niet toegestaan.
-
-De overtreding van Wet 1.17 (Streamsnipen) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+Het is ten strengste verboden om de livestreams, opnames of andere content van spelers van de server te gebruiken in RP.
+- Het is verboden om acties te ondernemen in het spel met als doel het lastigvallen of hinderen van contentmakers of het met opzet interfereren met hun roleplay. 
+Streamsnipen wordt beschouwd als ernstig wangedrag en kan resulteren in zware straffen.
 
 ## 1.18 - Roleplay scenario's
 
-Zodra er een roleplay scenario begint is het niet toegestaan om uit te loggen voor de komende 15 minuten. 
-Wanneer je moet gaan met hoge urgentie dien je dit te melden aan staffleden en anders is er kans op een sanctie hiervoor.
+Het is niet toegestaan om uit te loggen (of de server te verlaten) binnen 15 minuten nadat je actief betrokken bent geweest bij een roleplayscenario. dit omvat situaties zoals interacties met andere spelers, betrokkenheid bij een gevecht, achtervolgingen en dergelijke scenario's. Je dient aanwezig te blijven en de situatie correct af te handelen voordat je uitlogt. Het niet naleven van deze regel kan leiden tot passende sancties.
 
-De overtreding van Wet 1.18 (RP scenario's) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+Wanneer je moet gaan met hoge urgentie dien je dit te melden aan staffleden en anders is er kans op een sanctie hiervoor.
 
 ***
 
@@ -178,19 +182,14 @@ Deel 1 omvat de volgende onderwerpen:
 - Verkoop via telefoon
 
 ## 1.19 Vrijheidsontneming
-Het is niet toegestaan om iemands vrijheid langer dan 30 minuten ONNODIG te beperken.
+Het is niet toegestaan om de vrijheid van andere spelers voor een periode van langer dan 30 minuten in het spel te beperken zonder dat een geldig scenario gestart is.
+Dit omvat situaties zoals gevangenhouding (voorarrest), gijzeling (voor bijvoorbeeld het starten van een overval) of andere vormen van vrijheidsbeperking.
 
-Een aantal voorbeelden hiervan: 
-- Voorarrest mag niet langer als 30 minuten duren, binnen 30 minuten moet het strafprocess in gang gezet zijn.
-- Voor een overval of hostage situatie mogen agenten en/of criminelen niet langer dan 30 minuten gegijzeld worden zonder dat deze gestart is en in gang gezet is.
+- Nadat de 30 minuten verstreken zijn, Dien je persoon ongedeerd vrij te laten
 
-Nadat de 30 minuten verstreken zijn, Dien je persoon ongedeerd vrij te laten
+## 2.1.1 - Daken/bruggen
 
-## 2.1.1 - Daken
-
-Tijdens het plegen van een overval is het niet toegestaan om derden op een dak te plaatsen om vanaf daar op de overheid te schieten.
-Het vluchten op daken is tevens wel toegestaan en vanuit daar mag er door de gevluchte persoon uiteraard wel op de overheid geschoten worden indien hij in het scenario gevlucht is en daarop geklommen is.
-De overtreding van Wet 2.1.1 (Daken) zal resulteren in een straf van de 1ᵉ categorie.
+Tijdens het plegen van een overval is het niet toegestaan om derden op een dak/brug/viaduct te plaatsen om vanaf daar op de overheid of criminelen te schieten. Het vluchten op daken/bruggen/viaducten is tevens wel toegestaan en vanuit daar mag er door de gevluchte persoon uiteraard wel op de overheid geschoten worden indien hij in het scenario gevlucht is en daarop geklommen is.
 
 ## 2.1.2 - Overvallen & Wapens
 
