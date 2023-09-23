@@ -131,6 +131,10 @@ Heb je een wapen gebruikt. Is het NIET toegestaan deze binnen 15 minuten in een 
 Het niet toegestaan om items, wapens, voertuigen of andere spullen te verbergen, door te geven of op te slaan tijdens een lopend of recentelijk beëindigd scenario (korter als 15 minuten) om ze later te herstellen of te gebruiken. 
 Alle items die een personage tijdens dit scenario had, moeten op een realistische manier worden behouden. Het bewust verbergen of stashen van items (of bijvoorbeeld een auto in garage zetten) om ze te behouden tijdens of na een gevecht of (eventuele) aanhouding wordt als regelovertreding beschouwd.
 
+Dit geld ook voor agenten die een wapen in beslag hebben genomen.
+Dit wapen mag ook niet binnen 15 minuten gestashed worden. 
+Uitzondering hierop is als een straffzaak volledig is afgerond en persoon zijn straf heeft ontvangen. In dit geval mag het wapen wel vernietigd worden
+
 ## 1.15 - New Life Rule (NLR)
 
 Nadat je personage is gedood in een in-game situatie, dien je de gebeurtenissen en locatie van je dood te vergeten. 
