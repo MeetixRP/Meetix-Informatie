@@ -2,7 +2,7 @@
 
 1. Onrealistische of onmogelijke roleplay is verboden. Dit valt onder het voeren van roleplay die in het echte leven ook niet verricht kan worden. 
 Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden worden en doen alsof er niks aan de hand is.
-Het doorrennen (uitzondering op langszaam lopen) nadat je in je benen bent geschoten valt bijvoorbeeld ook onder "failRP
+Het doorrennen (uitzondering op langszaam lopen) nadat je in je benen bent geschoten valt bijvoorbeeld ook onder "failRP"
 
 2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
 Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
