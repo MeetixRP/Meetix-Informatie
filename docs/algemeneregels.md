@@ -2,6 +2,7 @@
 
 1. Onrealistische of onmogelijke roleplay is verboden. Dit valt onder het voeren van roleplay die in het echte leven ook niet verricht kan worden. 
 Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden worden en doen alsof er niks aan de hand is.
+Het doorrennen (uitzondering op langszaam lopen) nadat je in je benen bent geschoten valt bijvoorbeeld ook onder "failRP
 
 2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
 Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
@@ -336,11 +337,16 @@ Deel 2 omvat de volgende onderwerpen:
 
 Het overheidsbeleid van Groningen is altijd leidend boven de Nederlandse wet (in-game). Advocaten dienen hier goed op te letten.
 
-## 2.2.2 - Vliegen zonder vliegbrevet
+## 2.2.2 - Ingame-bewijzen/brevetten
+
+In-game passen, zoals het vliegbrevet en de wet betreffende wapenmunitie, zijn geldig binnen de RP.
+Er zijn specifieke regels vastgesteld met betrekking tot het gebruik van deze passen. 
+Het niet naleven van deze regels kan leiden tot het intrekken van de pas en mogelijk tot bijkomende sancties.
+
+(WWM is te vinden binnen de SVG)
+(Vlieg-regels zijn te vinden binnen de discord) 
 
 Het vliegen zonder een vliegbrevet is niet toegestaan. Hiermee is het automatisch ook verboden om overheidsvliegtuigen te stelen zonder vliegbrevet.
-
-De overtreding van Wet 2.2.2 (Vliegen zonder vliegbrevet) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 2.2.3 - Job menu
 
