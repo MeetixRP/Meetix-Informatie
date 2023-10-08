@@ -58,10 +58,7 @@ De overtreding van Wet 1.6 (Geen intentie tot Roleplay) zal resulteren in een st
 
 ## 1.7 - Value of Life 
 
-In Groningen is jouw leven eigenlijk het meest waardevol. Dit betekend dus dat het belangrijk is dat jij waarde hecht aan je leven.
-Krijg jij een wapen op je gericht? Werk dan mee. Als je niet meewerkt op het moment dat je bijvoorbeeld een wapen op je gericht hebt valt dit onder het kopje "No value of life". Indien er een steekwapen in het spel is dien je ten alle tijden mee te werken. Bij een slagwapen (knuppel bijvoorbeeld) is het toegestaan om weg te rennen indien dit geen levensbedreigende situatie is. Zodra er een vuurwapen op je gericht staat binnen ongeveer 15 meter dan is het niet meer toegestaan om weg te rennen. Als je rijdt is dit echter wel toegestaan en mag je gewoon doorrijden. Uiteraard als je stilstaat is het niet toegestaan om weg te rijden.
-
-De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+In Meetix is jouw leven echt superbelangrijk. Dus het is echt van groot belang dat je om je eigen leven geeft. Als iemand ooit een wapen op je richt, werk dan alsjeblieft mee. Als je niet meewerkt wanneer iemand bijvoorbeeld een wapen op je richt, wordt dat gezien als een "No value of life" dingetje. Als er een steekwapen in het spel is, moet je altijd meewerken. Als het een slagwapen is, zoals een knuppel, kun je wegrennen, maar alleen als je leven niet direct in gevaar is. Als iemand een vuurwapen op je richt, ongeveer binnen 15 meter, kun je niet meer wegrennen. 
 
 ## 1.8 - Meta-gaming
 
