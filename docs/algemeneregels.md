@@ -205,12 +205,17 @@ Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder gesch
 - Jacht: Vuurwapens
 - Cayo Perico: Vuurwapens
 
-3. Indien iemand het besluit om een gevangenistransport te onderscheppen dient degene in kwestie minimaal 25 maanden celstraf opgelegd gekregen hebben. 
+4. Indien iemand het besluit om een gevangenistransport te onderscheppen dient degene in kwestie minimaal 25 maanden celstraf opgelegd gekregen hebben. 
 Indien dit niet het geval is is het verboden om dit transport te overvallen.
 
-4. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
+5. Het is niet toegestaan om volautomatische vuurwapens te gebruiken bij winkelovervallen, huisinbraken of pinautomaatkraak, ook niet door buitenaf.
 
-5. Voor het plegen van een overval dient er een minimaal aantal agenten (KMar & Politie) in-dienst te zijn. Deze zullen hieronder vermeld worden. 
+5. Herhaaldelijk opeisen van in beslag genomen wapens is niet toegestaan. 
+Als een wapen in beslag is genomen, kan het alleen worden teruggewonnen door een agent te rippen. Echter, als je een wapen wilt terugeisen door agenten onder druk te zetten door het gijzelen van hun collega's of burgers, moet er toestemming komen van een officier van justitie (of hoger).
+
+6. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
+
+7. Voor het plegen van een overval dient er een minimaal aantal agenten (KMar & Politie) in-dienst te zijn. Deze zullen hieronder vermeld worden. 
 
 - Winkel: 3+ Agenten
 - Juwelier: 7+ Agenten
@@ -221,7 +226,9 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 - G4S: 12+ Agenten
 - Jacht: 10+ Agenten
 
-De overtreding van Wet 2.1.2 (Overvallen & Wapens) zal resulteren in een straf van de 2ᵉ categorie.
+8. Voor de overheid:
+
+- Bij een winkeloverval of woninginbraak is het niet toegestaan om meer dan 4 voertuigen te gebruiken voor de achtervolging. Het is wel toegestaan om tijdens de onderhandelingen met meer agenten aanwezig te zijn voor het afzetten van gebieden en andere taken.
 
 ## 2.1.3 - Overvallen tijdens evenementen
 
