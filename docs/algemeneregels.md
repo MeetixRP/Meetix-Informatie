@@ -337,6 +337,22 @@ Deel 2 omvat de volgende onderwerpen:
 - Job menu (forceren)
 - Corruptie (als overheidsdienst)
 
+## 2.1.10 Overvallen & Voertuigen
+
+1. Tijdens het plegen van een overval in elke vorm is het verboden om een van ondergenoemde voertuigen in te zetten voor eerder genoemde activiteit. Dit gaat om de volgende voertuigen : 
+
+- Koenigegg CCX, Regera, Agera en Gemera
+- Bugatti Divo, Atlantic, Veyron, Chiron en Chiron SS.
+- Pagani Huayra en Zonda R
+- Lamborghini Veneno, Sian en Sian R
+- Ferrari Enzo, LaFerrari
+- WMotors Lykan Hypersport
+- Hennessey Venom GT
+-  McLaren Speedtail 
+
+-  Onder overvallen bedoelen wij : Overvallen van elk soort met betrekking tot winkels, banken en andere overvalbare locaties.
+ook met de voorbereiding hiervan is het niet toegestaan om bovengenoemde voertuigen in te zetten.
+
 ## 2.2.1 - Groningen Wetboek
 
 Het overheidsbeleid van Groningen is altijd leidend boven de Nederlandse wet (in-game). Advocaten dienen hier goed op te letten.
