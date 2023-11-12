@@ -2,7 +2,7 @@
 
 1. Onrealistische of onmogelijke roleplay is verboden. Dit valt onder het voeren van roleplay die in het echte leven ook niet verricht kan worden. 
 Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden worden en doen alsof er niks aan de hand is.
-Het doorrennen (uitzondering op langszaam lopen) nadat je in je benen bent geschoten valt bijvoorbeeld ook onder "failRP"
+Het doorrennen (uitzondering op langszaam lopen) nadat je in je benen bent geschoten, en praten in porto terwijl je aan het zwemmen bent vallen bijvoorbeeld ook onder "failRP"
 
 2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
 Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
@@ -191,7 +191,7 @@ Dit omvat situaties zoals gevangenhouding (voorarrest), gijzeling (voor bijvoorb
 
 ## 2.1.1 - Daken/bruggen
 
-Tijdens het plegen van een overval is het niet toegestaan om derden op een dak/brug/viaduct te plaatsen om vanaf daar op de overheid of criminelen te schieten. Het vluchten op daken/bruggen/viaducten is tevens wel toegestaan en vanuit daar mag er door de gevluchte persoon uiteraard wel op de overheid geschoten worden indien hij in het scenario gevlucht is en daarop geklommen is.
+Tijdens het plegen van een overval is het niet toegestaan om derden op een dak te plaatsen om vanaf daar op de overheid of criminelen te schieten. Het vluchten op daken is tevens wel toegestaan en vanuit daar mag er door de gevluchte persoon uiteraard wel op de overheid geschoten worden indien hij in het scenario gevlucht is en daarop geklommen is.
 
 ## 2.1.2 - Overvallen & Wapens
 
@@ -310,7 +310,7 @@ De overtreding van Wet 2.1.7 (Drugs-verkoop locaties) zal resulteren in een stra
 
 ## 2.1.8 - Verkoop via telefoon
 
-Het is niet toegestaan om illegale goederen te verhandelen via de telefoon. Uiteraard wel via privéberichten met mensen maar niet via marktplaats, twitter etc.
+Het is niet toegestaan om illegale goederen te verhandelen via openbare apps op de telefoon. Uiteraard wel via privéberichten en darkweb met mensen maar niet via marktplaats, instagram etc.
 
 Hieronder vallen de onderstaande dingen:
 
@@ -320,7 +320,6 @@ Hieronder vallen de onderstaande dingen:
 - Drugs
 - Witwas praktijken
 
-De overtreding van Wet 2.1.8 (Verkoop via telefoon) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 2.1.9 - Kweken en produceren
 
@@ -328,7 +327,6 @@ Het produceren, kweken of genereren van illegale goederen in custom MLO's/gebouw
 Ook is het niet toegestaan om te produceren of wiet te kweken op daken die niet toegankelijk zijn zonder helikopters of vliegtuigen.
 Tevens is het plaatsen van tuin-tafels niet toegestaan op openbare wegen en/of gebouwen
 
-De overtreding van Wet 2.1.9 (Wiet Potten) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 Deel 2 omvat de volgende onderwerpen:
 
