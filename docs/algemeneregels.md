@@ -408,20 +408,9 @@ De overtreding van 2.2.7 (overheidsvoertuigen stelen) zal resulteren in een stra
 
 ## 2.2.8 Bewijsmateriaal
 
-Zodra een persoon een geldige bodycam draagt op zijn kleding mag dit gebruikt worden als officieel bewijsmateriaal.
-Hierbij geldt ook dat op overheidsvoertuigen een dashcam zit. 
-Zodra een persoon overleden is dan dienen deze bewijsmaterialen door een ander gepakt te worden (via /me bijvoorbeeld) om daadwerkelijk geldig verklaart te worden.
-Om dit te voorkomen kan een crimineel ervoor kiezen om zodra iemand de wet overtreed het bewijsmateriaal te vernietigen.
-
-De overtreding van Wet 2.2.7 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
-
-
-Deel 3 omvat de volgende onderwerpen:
-
-- Trailers
-- Emote abuse 
-- AFK 
-- Transacties
+Zodra een persoon een geldige bodycam draagt op zijn kleding mag dit gebruikt worden als officieel bewijsmateriaal. (Het standaard uniform van politie en kmar die je uit het menu kan halen vallen hier ook onder) 
+Hierbij geldt ook dat op (overheids)voertuigen een dashcam zit. 
+Zodra een persoon overleden is dan dienen deze bewijsmaterialen door een ander gepakt te worden (via /me) om daadwerkelijk geldig verklaart te worden. Om dit te voorkomen kan een crimineel ervoor kiezen om zodra iemand de wet overtreed het bewijsmateriaal te vernietigen. 
 
 ## 2.3.1 - Trailers
 
