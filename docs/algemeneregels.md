@@ -189,6 +189,10 @@ Dit omvat situaties zoals gevangenhouding (voorarrest), gijzeling (voor bijvoorb
 
 - Nadat de 30 minuten verstreken zijn, Dien je persoon ongedeerd vrij te laten
 
+## 1.20 - Groeperingen
+
+Tijdens criminele activiteiten zoals Rip(deal)-acties, overvallen, en dergelijke is het niet toegestaan om met meer dan 13 personen in contact te staan via portofoons, telefoons, en andere communicatiemiddelen. Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.
+
 ## 2.1.1 - Daken/bruggen
 
 Tijdens het plegen van een overval is het niet toegestaan om derden op een dak te plaatsen om vanaf daar op de overheid of criminelen te schieten. Het vluchten op daken is tevens wel toegestaan en vanuit daar mag er door de gevluchte persoon uiteraard wel op de overheid geschoten worden indien hij in het scenario gevlucht is en daarop geklommen is.
