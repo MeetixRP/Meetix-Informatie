@@ -129,9 +129,9 @@ Heb je een wapen gebruikt. Is het NIET toegestaan deze binnen 15 minuten in een 
 Het niet toegestaan om items, wapens, voertuigen of andere spullen te verbergen, door te geven of op te slaan tijdens een lopend of recentelijk beëindigd scenario (korter als 15 minuten) om ze later te herstellen of te gebruiken. 
 Alle items die een personage tijdens dit scenario had, moeten op een realistische manier worden behouden. Het bewust verbergen of stashen van items (of bijvoorbeeld een auto in garage zetten) om ze te behouden tijdens of na een gevecht of (eventuele) aanhouding wordt als regelovertreding beschouwd.
 
-Dit geld ook voor agenten die een wapen in beslag hebben genomen.
-Dit wapen mag ook niet binnen 15 minuten gestashed worden. 
-Uitzondering hierop is als een straffzaak volledig is afgerond en persoon zijn straf heeft ontvangen. In dit geval mag het wapen wel vernietigd worden
+Dit geld ook voor agenten die een wapen in beslag hebben genomen. 
+Dit wapen mag ook na inbeslagname niet binnen 15 minuten gestashed worden. 
+Uitzondering hierop is als een strafzaak volledig is afgerond en persoon zijn straf heeft ontvangen. In dit geval mag het wapen wel vernietigd worden.
 
 ## 1.15 - New Life Rule (NLR)
 
@@ -494,9 +494,9 @@ De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ c
 
 ## 3.5 - Vluchten 
 
-Indien je vlucht van een overheidsinstantie dien je dit te doen met een reden. Een boete, stoplicht passeren die op rood staat is geen geldige reden. 
-
-De overtreding van Wet 3.5 (Vluchten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+Het is enkel toegestaan om te vluchten van een overheidsinstantie wanneer er sprake is van ernstige criminele activiteiten, zoals betrokkenheid bij geweldsdelicten zoals schieten.
+Het ontwijken van autoriteiten vanwege eenvoudige overtredingen, zoals door rood licht rijden of te snel rijden is niet toegestaan en wordt niet beschouwd als een geldige reden voor vluchten.
+Een reden als "Ik denk dat ik een VTA kan hebben" valt hier ook onder. Enkel zeker weten is een geldige reden
 
 ## 3.6 - Bounties
 
