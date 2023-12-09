@@ -225,10 +225,25 @@ Als een wapen in beslag is genomen, kan het alleen worden teruggewonnen door een
 - Casino: 10+ Agenten
 - G4S: 12+ Agenten
 - Jacht: 10+ Agenten
+  
+  
+> ### 8. Voor de overheid:
 
-7. Voor de overheid:
+Bij overvallen zit een maximum aantal voertuigen dat toegestaan is om te koppelen in een achtervoling, namelijk het volgende:
 
-- Bij een winkeloverval of woninginbraak is het niet toegestaan om meer dan 4 voertuigen te gebruiken voor de achtervolging. Het is wel toegestaan om tijdens de onderhandelingen met meer agenten aanwezig te zijn voor het afzetten van gebieden en andere taken.
+  - Bij een winkeloverval 4 voertuigen.
+  - Bij een woninginbraak 4 voertuigen.
+  - Bij een kleine bank 9 voertuigen.
+  - Bij een juwelier 9 voertuigen.
+  - Bij een jacht 9 voertuigen.
+  - Bij een grote bank 13 voertuigen. (waarvan maximaal 5 bsb/dsi)
+  - Bij een G4s zit geen maximum.
+
+  Dit alles is gericht op 1 ontsnappings voertuig.
+  Indien overvallers met meerdere voertuigen willen ontsnappen vanuit de overval-locatie, mag hier per extra ontsnappingsvoertuig 1 extra overheidsvoertuig koppelen.
+  Word er van buiten af geschoten of geholpen is het natuurlijk wel toegestaan voor de overheid om stappen te ondernemen richting deze personen, en hier aan te koppelen
+
+Het is wel toegestaan om tijdens de onderhandelingen met meer agenten aanwezig te zijn voor het afzetten van gebieden en andere taken. ```
 
 ## 2.1.3 - Overvallen tijdens evenementen
 
