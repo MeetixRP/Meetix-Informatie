@@ -57,6 +57,8 @@ Keybinds zijn te wijzigen in het ++escape++ menu (++escape++ > Settings > Keybin
 
 # Commands ingame
 
+++"/sleutels"++ - Geef sleutels van je huis aan een speler (Hiervoor moet je wel eerst je sleutels kopiëren)
+
 ++"/report"++ ++"Bericht"++- Report maken voor staff
 
 ++"/verkoopvoertuig"++ ++"ID"++ ++"Kenteken"++ - Schrijf je kenteken over naar een speler
