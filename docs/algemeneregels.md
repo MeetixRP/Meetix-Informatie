@@ -275,6 +275,8 @@ Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
 
 4. Het rippen van personen die behandeld worden door ambulance, of het opwachten van een behandeling om hierna te rippen is ook niet toegestaan.
 
+5. [Nieuwe spelers](algemeneregels.md#nieuwe-speler) mogen NOOIT worden bestolen of gescamt
+
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
