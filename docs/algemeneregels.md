@@ -250,35 +250,27 @@ Het is wel toegestaan om tijdens de onderhandelingen met meer agenten aanwezig t
 Het is niet toegestaan om overvallen te starten tijdens evenementen. Ongeacht of de voorbedachte gedachten ervan goed of niet waren blijft het verboden tenzij het bij het evenement betrokken is.
 De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.1.4 - Spelers overvallen (rippen)
+## 2.1.4 - Overvallen en oplichten van spelers
 
-1. Het overvallen (rippen) van spelers is toegestaan. Dit echter wel met hieraan bepaalde regels gekoppeld.
-Er dient ten alle tijden een goede reden achter het overvallen te zitten. Indien dit niet het geval is kunnen hier sancties op gelegd worden.
-Het rippen van iemand met een complete set leger kledij (broek + shirt) of maskers is daarentegen wel toegestaan.
-Er geld een uitzondering op bivakmutsen ONDER een motorhelm (dragend op een motor).
-Zodra je iemand overvallen hebt en hij/zij heeft goed meegewerkt dan is het niet toegestaan om diegene van het leven te beroven. 
+   1. Het overvallen/oplichten van medespelers is uiterst verboden!
 
-Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze staan hieronder vermeld.
+   2. Oplichten is **uitsluitend** toegestaan bij criminele activiteiten
 
-- Iemand forceren zijn/haar kluis leeg te halen in een huis.
-- Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
-- Het Kofferbakken leeghalen van standaard job voertuigen.
-- Custom kentekens van spelers.
-- BakkerBV goederen.
-- Custom sleutels/pasjes van MLO's.2.1.
-- Indien je een wapen signaleerd bij iemand is het tot de volgende ochtend 06:00 toegestaan diegene te rippen hiervoor. Na 06:00 niet meer.
+   3. In de volgende gevallen is overvallen **SOWIEZO** ten strengste verboden:
+      - [Nieuwe spelers](algemeneregels.md#nieuwe-speler)
+      - Custom kentekens (Aangeschaft via de shop)
+      - Spelers die werkzaam zijn bij het UWV of standaard jobs uitvoeren (Het stelen van goederen van spelers met standaard banen is niet toegestaan)
+      - Bezittingen/Voorwerpen van overheidsinstanties
+      - Het onder dwang ontnemen van bezittingen uit een kluis of het pinnen van geld
+      - Voertuigen
+  4. Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
 
-2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezichtsbedekkende kleding of bovenstaande regels.
-Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
+  5. In een appartement is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden.
 
-3. Het opzetten van een deal met de intentie iemand te bestelen van zijn goederen (ripdeal) is wel toegestaan, (Aan een ripdeal zit GEEN max bedrag)
-
-4. Het rippen van personen die behandeld worden door ambulance, of het opwachten van een behandeling om hierna te rippen is ook niet toegestaan.
-
-5. [Nieuwe spelers](algemeneregels.md#nieuwe-speler) mogen NOOIT worden bestolen of gescamt
+  6. Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de **hele** dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
 
 
-De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
+De overtreding van Wet 2.1.4 (Overvallen en oplichten van spelers) zal resulteren in een straf van de 2ᵉ categorie.
 
 ## 2.1.5 Tiewraps en boeien
 
@@ -316,14 +308,6 @@ Denk hier bijvoorbeeld aan drubs-labs, campers, tuintafels etc.
 4. Campen op of rondom deze locaties is ook NIET toegestaan
 
 De overtreding van Wet 2.1.6 (Rippen op een(drugs) locatie) zal resulteren in een straf van de 2ᵉ categorie.
-
-## 2.1.7 - Drugs-verkoop locaties
-
-Er dient altijd een goede reden te zijn om iemand te rippen.
-Het zien praten met een NPC is niet voldoende reden om persoon hier te overvallen.
-(Heeft persoon gezicht bedekkende kleding mag dit uiteraard wel)
-
-De overtreding van Wet 2.1.7 (Drugs-verkoop locaties) zal resulteren in een straf van de 2ᵉ categorie.
 
 ## 2.1.8 - Verkoop via telefoon
 
@@ -494,17 +478,6 @@ Indien je niet in een crimineel roleplay scenario zit dien je je gezichtsbedekke
 
 De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 3.4 Oplichten (scammen)
-
-Het oplichten binnen Groningen is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,- Illegale goederen zoals hand en -vuurwapens en drugs zit een max bedrag aan van 100.000,- hierbij word geen onderscheid gemaakt tussen zwart en witgeld.
-
-Het oplichten van spelers met minder als 4u speeltijd is niet toegestaan. Hoe je dit kunt herkennen is als ze nog niet kunnen slaan of als ze bijvoorbeeld in een standaard outfit rondlopen.
-
-Het scammen bij de witwas is onder geen enkele vooorwaarde toegestaan.
-
-De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
-
-
 ## 3.5 - Vluchten 
 
 Het is enkel toegestaan om te vluchten van een overheidsinstantie wanneer er sprake is van ernstige criminele activiteiten, zoals betrokkenheid bij geweldsdelicten zoals schieten.
@@ -524,4 +497,5 @@ Nieuwe spelers genieten van een aanvullende bescherming en zijn vrijgesteld van 
 **Vaak is dit dus een speler die jij niet kent. Dit betekent vaak dat het een speler is die jou niet kent en jij hem niet.**
 
 Deze bescherming is bedoeld om hen de kans te geven vertrouwd te raken met de serveromgeving en zich op hun gemak te voelen in de stad.
+Zodra een speler zichzelf bekend maakt door zelf spelers te overvallen/oplichten vervalt deze regel voor die speler!
 
