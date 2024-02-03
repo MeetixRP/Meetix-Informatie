@@ -265,7 +265,7 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 - Het Kofferbakken leeghalen van standaard job voertuigen.
 - Custom kentekens van spelers.
 - BakkerBV goederen.
-- Custom sleutels/pasjes van MLO's.
+- Custom sleutels/pasjes van MLO's.2.1.
 - Indien je een wapen signaleerd bij iemand is het tot de volgende ochtend 06:00 toegestaan diegene te rippen hiervoor. Na 06:00 niet meer.
 
 2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezichtsbedekkende kleding of bovenstaande regels.
@@ -515,3 +515,11 @@ Het is niet toegestaan om bounties op iemand zijn "hoofd" te zetten.
 Ook het inhuren van een huurmoordenaar is niet toegestaan.
 
 De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+## Nieuwe Speler
+Een nieuwe speler wordt gedefinieerd als een speler die onbekend is en korter dan een maand actief is op de server. 
+Nieuwe spelers genieten van een aanvullende bescherming en zijn vrijgesteld van overvallen, oplichting en andere vijandige acties gedurende deze initiële periode. 
+**Vaak is dit dus een speler die jij niet kent. Dit betekent vaak dat het een speler is die jou niet kent en jij hem niet.**
+
+Deze bescherming is bedoeld om hen de kans te geven vertrouwd te raken met de serveromgeving en zich op hun gemak te voelen in de stad.
+
