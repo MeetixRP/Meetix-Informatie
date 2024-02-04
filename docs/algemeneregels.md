@@ -287,25 +287,7 @@ Het zomaar erin "toveren" van iemand in een voertuig is niet meer toegestaan.
 3. Op het moment dat jou boeien loslaten is het niet toegestaan om enige actie te ondernemen indien je nog een roleplay scenario zit.
 Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon het gebied te verlaten en je eigen dingen te hervatten.
 
-De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie.
-
-## 2.1.6 Rippen op (drugs)locaties
-
-Het rippen op de meeste plekken is toegestaan, echter zijn er een aantal uitzonderingen.
-
-1. Het rippen op statische locaties is NIET toegestaan. 
-Denk hier bijvoorbeeld aan drugs-locaties, inpak locaties en verkooplocaties die niet dagelijks veranderen
-
-Het rippen op locaties die wel veranderen is echter wel toegestaan.
-Denk hier bijvoorbeeld aan drubs-labs, campers, tuintafels etc.
-
-2. Ook is het NIET toegestaan om mensen te forceren uit een niet rip-bare locatie te komen om ze vervolgens alsnog van hun spullen te beroven of te vermoorden.
-
-3. Het vluchten naar zo'n locatie om jezelf veilig te stellen is ook niet toegestaan, hierbij mag de RP gewoon voortgezet worden
-
-4. Campen op of rondom deze locaties is ook NIET toegestaan
-
-De overtreding van Wet 2.1.6 (Rippen op een(drugs) locatie) zal resulteren in een straf van de 2ᵉ categorie.
+De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie
 
 ## 2.1.8 - Verkoop via telefoon
 
