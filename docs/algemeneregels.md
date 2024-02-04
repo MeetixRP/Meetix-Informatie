@@ -192,9 +192,13 @@ Dit omvat situaties zoals gevangenhouding (voorarrest), gijzeling (voor bijvoorb
 
 - Nadat de 30 minuten verstreken zijn, Dien je persoon ongedeerd vrij te laten
 
-## 1.20 - Groeperingen
+## 1.20 - Groeperingen/gangs
 
-Tijdens criminele activiteiten zoals Rip(deal)-acties, overvallen, en dergelijke is het niet toegestaan om met meer dan 13 personen in contact te staan via portofoons, telefoons, en andere communicatiemiddelen. Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.
+Groeperingen mogen alleen samenwerken als het totaal aantal leden niet meer betreft als 20. (Beide groeperingen bij elkaar opgeteld!)
+Je mag met maximaal 1 andere groepering samenwerken!
+
+Daarnaast is het maximale ledenaantal voor groepering beperkt tot 20.
+Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.
 
 ## 2.1.2 - Overvallen & Wapens
 
