@@ -495,6 +495,7 @@ De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ ca
 Een nieuwe speler wordt gedefinieerd als een speler die onbekend is en korter dan een maand actief is op de server. 
 Nieuwe spelers genieten van een aanvullende bescherming en zijn vrijgesteld van overvallen, oplichting en andere vijandige acties gedurende deze initiële periode. 
 **Vaak is dit dus een speler die jij niet kent. Dit betekent vaak dat het een speler is die jou niet kent en jij hem niet.**
+Controleerbaar met: ++"/speeltijd"++ ++"ID"++
 
 Deze bescherming is bedoeld om hen de kans te geven vertrouwd te raken met de serveromgeving en zich op hun gemak te voelen in de stad.
 Zodra een speler zichzelf bekend maakt door zelf spelers te overvallen/oplichten vervalt deze regel voor die speler!
