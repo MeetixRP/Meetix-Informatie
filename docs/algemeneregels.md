@@ -252,22 +252,20 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
 
 ## 2.1.4 - Overvallen en oplichten van spelers
 
-   1. Het overvallen/oplichten van medespelers is uiterst verboden!
+   1. Het overvallen/oplichten van medespelers is uiterst verboden! **Behalve** als deze bezig is met een [**Criminele** activiteit](algemeneregels.md#criminele-activiteit)!
 
-   2. Oplichten is **uitsluitend** toegestaan bij criminele activiteiten
-
-   3. In de volgende gevallen is overvallen **SOWIEZO** ten strengste verboden:
-      - [Nieuwe spelers](algemeneregels.md#nieuwe-speler)
-      - Custom kentekens (Aangeschaft via de shop)
-      - Spelers die werkzaam zijn bij het UWV of standaard jobs uitvoeren (Het stelen van goederen van spelers met standaard banen is niet toegestaan)
-      - Bezittingen/Voorwerpen van overheidsinstanties
+   2. Het volgende is **SOWIEZO** ten strengste verboden:
+      - [Nieuwe spelers](algemeneregels.md#nieuwe-speler) overvallen/oplichten
+      - Custom kentekens afpakken (Aangeschaft via de shop)
+      - Spelers die bezig zijn met een UWV/Standaard job overvallen/oplichten
+      - Het in bezit hebben/stelen van bezittingen/voorwerpen van overheidsinstanties. (Zoals wapens, repairskits, aed, etc)
       - Het onder dwang ontnemen van bezittingen uit een kluis of het pinnen van geld
-      - Voertuigen
-  4. Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
+      - Oplichten met voertuigen. (Zoals een auto fully tuned verkopen die dat niet is.)
+  3. Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
 
-  5. In een appartement is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden.
+  4. In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen **buiten** een appartement/huis)
 
-  6. Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de **hele** dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
+  5. Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de **hele** dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
 
 
 De overtreding van Wet 2.1.4 (Overvallen en oplichten van spelers) zal resulteren in een straf van de 2ᵉ categorie.
@@ -497,6 +495,10 @@ Nieuwe spelers genieten van een aanvullende bescherming en zijn vrijgesteld van 
 **Vaak is dit dus een speler die jij niet kent. Dit betekent vaak dat het een speler is die jou niet kent en jij hem niet.**
 Controleerbaar met: ++"/speeltijd"++ ++"ID"++
 
+## Criminele activiteit
 Deze bescherming is bedoeld om hen de kans te geven vertrouwd te raken met de serveromgeving en zich op hun gemak te voelen in de stad.
 Zodra een speler zichzelf bekend maakt door zelf spelers te overvallen/oplichten vervalt deze regel voor die speler!
 
+Een criminele activiteit verwijst naar een handeling, gedrag of praktijk die in strijd is met de wetten en regelgeving van een bepaalde samenleving. Het omvat activiteiten die als illegaal worden beschouwd en waarvoor wettelijke sancties kunnen gelden. Voorbeelden van criminele activiteiten zijn diefstal, fraude, geweldpleging, drugshandel, en andere overtredingen van wetten die bedoeld zijn om de openbare orde te handhaven.
+
+In het kader van een roleplay server, kunnen criminele activiteiten specifiek verwijzen naar virtuele handelingen binnen het spel, zoals overvallen, illegale handel, drugssmokkel, en andere activiteiten die als crimineel worden beschouwd volgens de spelregels en het scenario van de server.
