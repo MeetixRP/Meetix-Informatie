@@ -256,7 +256,8 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
 
 ## 2.1.4 - Overvallen en oplichten van spelers
 
-   1. Het overvallen/oplichten van medespelers is uiterst verboden! **Behalve** als deze bezig is met een [**Criminele** activiteit](algemeneregels.md#criminele-activiteit)!
+   1. Het overvallen/oplichten van medespelers is uiterst verboden! **Behalve** als deze bezig is met een [**Criminele** activiteit](algemeneregels.md#criminele-activiteit) Of als deze criminele kleding draagt!
+      Criminele kleding is kleding zoals: armor, helmen, maskers, wapens etc.
 
    2. Het volgende is **SOWIEZO** ten strengste verboden:
       - [Nieuwe spelers](algemeneregels.md#nieuwe-speler) overvallen/oplichten
@@ -265,6 +266,7 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
       - Het in bezit hebben/stelen van bezittingen/voorwerpen van overheidsinstanties. (Zoals wapens, repairskits, aed, etc)
       - Het onder dwang ontnemen van bezittingen uit een kluis of het pinnen van geld
       - Oplichten met voertuigen. (Zoals een auto fully tuned verkopen die dat niet is.)
+      - Het opwachten/campen bij drugs/witwaslocaties
   3. Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
 
   4. In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen **buiten** een appartement/huis)
