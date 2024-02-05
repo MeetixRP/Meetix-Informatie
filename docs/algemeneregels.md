@@ -258,8 +258,8 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
 
    1. Het overvallen/oplichten van medespelers is uiterst verboden! **Behalve** als deze bezig is met een [**Criminele** activiteit](algemeneregels.md#criminele-activiteit) Of als deze criminele kleding draagt!
       Criminele kleding is kleding zoals: armor, helmen, maskers, wapens etc.
-
-   2. Het volgende is **SOWIEZO** ten strengste verboden:
+   2. Je mag **maximaal** 150K scammen op illegale goederen
+   3. Het volgende is **SOWIEZO** ten strengste verboden:
       - [Nieuwe spelers](algemeneregels.md#nieuwe-speler) overvallen/oplichten
       - Custom kentekens afpakken (Aangeschaft via de shop)
       - Spelers die bezig zijn met een UWV/Standaard job overvallen/oplichten
@@ -269,9 +269,9 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
       - Het opwachten/campen bij drugs/witwaslocaties
   3. Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
 
-  4. In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen **buiten** een appartement/huis)
+  5. In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen **buiten** een appartement/huis)
 
-  5. Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de **hele** dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
+  6. Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de **hele** dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
 
 
 De overtreding van Wet 2.1.4 (Overvallen en oplichten van spelers) zal resulteren in een straf van de 2ᵉ categorie.
