@@ -266,7 +266,7 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
       - Het in bezit hebben/stelen van bezittingen/voorwerpen van overheidsinstanties. (Zoals wapens, repairskits, aed, etc)
       - Het onder dwang ontnemen van bezittingen uit een kluis of het pinnen van geld
       - Oplichten met voertuigen. (Zoals een auto fully tuned verkopen die dat niet is.)
-      - Het overvallen van vaste en mobiele drugs/witwaslocaties
+      - Het overvallen van vaste en mobiele inpaklocaties
   3. Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
 
   5. In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen **buiten** een appartement/huis)
