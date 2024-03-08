@@ -12,7 +12,7 @@ Spelers dienen actief mee te werken aan de roleplay en mogen niet bewust probere
 Dit omvat het vermijden van acties die redelijkerwijs zouden leiden tot de voltooiing van de situatie. 
 (Ik rek tijd omdat mijn vrienden dan komen is hierdoor geen geldige reden)
 
-4. Wanneer je tijdens een overval 'buitenwesten' (dood) bent gegaan en later door een ambulance wordt behandeld of omhoog geholpen, is het niet langer toegestaan om terug te koppelen aan dit specifieke scenario. 
+4. Wanneer je tijdens een scenario 'buitenwesten' (dood) bent gegaan en later door een ambulance wordt behandeld of omhoog geholpen, is het niet langer toegestaan om terug te koppelen aan dit specifieke scenario. 
 Dit geldt zowel voor criminelen als voor leden van de overheid. 
 
 
@@ -43,8 +43,8 @@ Onder de categorie "RDM" valt het vermoorden van een speler zonder enige intenti
 Het vermoorden van iemand doormiddel van het naar iemand toelopen, hostagen en gelijk doodschieten is dus ten alle tijden verboden en gaat tegen de regels in.
 
 Het onnodig naschieten om iemand de kans tot overleven te ontnemen is tevens niet toegestaan
-
-De overtreding van Wet 1.4 (RDM) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+Dit wil zeggen dat wanneer iemand is overmeesterd of geen dreiging meer vormt je hem niet mag afschieten.
+Is de tegenpartij in een shoot-out wel een dreiging (kan hij nog schieten o.i.d.) mag je deze persoon wel het leven ontnemen
 
 ## 1.5 - Vehicle Deathmatch (VDM)
 
@@ -324,19 +324,15 @@ Hieronder vallen de onderstaande dingen:
 - Witwas praktijken
 
 
-## 2.1.9 - Kweken en produceren
+## 2.1.9 - Kweken, produceren en witwassen
 
 Het produceren, kweken of genereren van illegale goederen in custom MLO's/gebouwen is niet toegestaan. 
 Ook is het niet toegestaan om te produceren of wiet te kweken op daken die niet toegankelijk zijn zonder helikopters of vliegtuigen.
 Tevens is het plaatsen van tuin-tafels niet toegestaan op openbare wegen en/of gebouwen
 
+Tijdens witwassen is het niet toegestaan om het geld door te geven aan een ander.
+Vanaf start tot inleverlocatie ben je verplicht alle goederen bij je te houden.
 
-Deel 2 omvat de volgende onderwerpen:
-
-- Groningen wetboek
-- Vliegbrevet
-- Job menu (forceren)
-- Corruptie (als overheidsdienst)
 
 ## 2.1.10 Overvallen & Voertuigen
 
