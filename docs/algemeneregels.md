@@ -61,7 +61,9 @@ De overtreding van Wet 1.6 (Geen intentie tot Roleplay) zal resulteren in een st
 
 ## 1.7 - Value of Life 
 
-In Meetix is jouw leven echt superbelangrijk. Dus het is echt van groot belang dat je om je eigen leven geeft. Als iemand ooit een wapen op je richt, werk dan alsjeblieft mee. Als je niet meewerkt wanneer iemand bijvoorbeeld een wapen op je richt, wordt dat gezien als een "No value of life" dingetje. Als er een steekwapen in het spel is, moet je altijd meewerken. Als het een slagwapen is, zoals een knuppel, kun je wegrennen, maar alleen als je leven niet direct in gevaar is. Als iemand een vuurwapen op je richt, ongeveer binnen 15 meter, kun je niet meer wegrennen. 
+In Meetix is jouw leven echt superbelangrijk. Dus het is echt van groot belang dat je om je eigen leven geeft. Als iemand ooit een wapen op je richt, werk dan alsjeblieft mee. Als je niet meewerkt wanneer iemand bijvoorbeeld een wapen op je richt, wordt dat gezien als een "No value of life" dingetje. Als er een steekwapen in het spel is, moet je altijd meewerken. Als het een slagwapen is, zoals een knuppel, kun je wegrennen, maar alleen als je leven niet direct in gevaar is. Als iemand een vuurwapen op je richt, ongeveer binnen 15 meter, kun je niet meer wegrennen.
+Zit je in een bewegend voertuig en richt iemand een wapen op je, dan mag je door blijven rijden. 
+Dit is niet het geval wanneer je (bijna) stil staat.
 
 ## 1.8 - Meta-gaming
 
@@ -310,6 +312,14 @@ Het zomaar erin "toveren" van iemand in een voertuig is niet meer toegestaan.
 Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon het gebied te verlaten en je eigen dingen te hervatten.
 
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie
+
+## 2.1.7 - Drugs-verkoop locaties
+
+Er dient altijd een goede reden te zijn om iemand te rippen.
+Het zien praten met een NPC is niet voldoende reden om persoon hier te overvallen.
+(Heeft persoon gezicht bedekkende kleding mag dit uiteraard wel)
+
+De overtreding van Wet 2.1.7 (Drugs-verkoop locaties) zal resulteren in een straf van de 2ᵉ categorie.
 
 ## 2.1.8 - Verkoop via telefoon
 
