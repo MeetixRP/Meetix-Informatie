@@ -503,12 +503,12 @@ De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ ca
 
 Om een veilige en realistische roleplay-ervaring te waarborgen, hanteren we strikte regels betreffende activiteiten in zowel Green als Red zones op onze server. Hieronder vindt u een gedetailleerd overzicht van wat wel en niet is toegestaan in deze zones.
 
-- **Green Zones:**
+### Green Zones:
   - In **Green Zones** streven we naar een veilige omgeving voor alle spelers. Het is strikt verboden om deel te nemen aan combat, schieten, slaan, overvallen of enige andere vorm van criminele activiteiten binnen deze zones. Uitzonderingen op deze regel zijn alleen mogelijk met expliciete toestemming van het management. Overtredingen zullen serieus genomen worden en kunnen leiden tot sancties.
   - **Verbod op Vluchten naar Green Zones:**
     - Het is spelers niet toegestaan om naar een Green Zone te vluchten tijdens een achtervolging of conflict als middel om immuniteit te verkrijgen tegen aanvallen of gerechtelijke acties. Deze regel is ingevoerd om misbruik van de veiligheid die Green Zones bieden te voorkomen en om een eerlijk speelveld te waarborgen. Bij overtreding kunnen hun bezittingen in beslag genomen worden en overgedragen worden aan de achtervolgende of benadeelde partij.
 
-- **De volgende 'zones' vallen onder een 'Green zone':**
+### De volgende 'zones' vallen onder een 'Green zone':
   - Blokkenpark: Van de garage tot aan de straat van de bank. Overvallen op de bank zelf zijn niet onder deze restrictie.
   - UWV Garage
   - Hoofdbureau van Politie
@@ -517,7 +517,7 @@ Om een veilige en realistische roleplay-ervaring te waarborgen, hanteren we stri
   - Gemeentehuis
   - Officiële Autodealers
 
-- **Red Zones:**
+### Red Zones:
   - In tegenstelling tot **Green Zones**, staan **Red Zones** toe dat spelers zich overgeven aan criminele activiteiten, inclusief maar niet beperkt tot limietloos scammen, gijzelnemen, schieten op andere spelers, en het uitvoeren van overvallen. We moedigen spelers aan om zich verantwoordelijk te gedragen en te onthouden van acties die de spelervaring van anderen ernstig kunnen beïnvloeden of schaden.
   - **Belangrijk:**
     - Hoewel **Red Zones** meer vrijheden bieden voor criminele activiteiten, herinneren we alle spelers eraan dat de algemene serverregels en gedragscodes te allen tijde gerespecteerd dienen te worden.  Het management behoudt zich het recht voor om in te grijpen bij gedrag dat als excessief of schadelijk wordt beschouwd.
