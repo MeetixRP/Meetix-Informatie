@@ -294,6 +294,8 @@ Het overvallen/oplichten van medespelers is enkel toegestaan wanneer deze bezig 
 
 - Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de hele dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
 
+
+
 ## 2.1.5 Tiewraps en boeien
 
 1. Aan het vastbinden van iemand met tiewraps of handboeien dient ten alle tijden goede roleplay gekoppeld te zijn.
@@ -312,6 +314,15 @@ Het zomaar erin "toveren" van iemand in een voertuig is niet meer toegestaan.
 Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon het gebied te verlaten en je eigen dingen te hervatten.
 
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie
+
+## 2.1.6 Wapenprijzen.
+
+Om buitensporige bedragen rondom vuurwapens tegen te gaan, zit er een maximale verkoopwaarde hier aan.
+Dit is te zien op de volgende link:
+[Wapenprijzen](https://docs.google.com/spreadsheets/d/1dGsZaWTJw8WHAHXHMZnL97IhPuEk40hU/edit?usp=sharing&ouid=105984552756401162709&rtpof=true&sd=true) 
+
+
+ Wij hebben geen prijzen onder de 150.00 euro opgenomen vanwege regel 2.1.4 - overvallen en oplichting van spelers
 
 ## 2.1.7 - Drugs-verkoop locaties
 
