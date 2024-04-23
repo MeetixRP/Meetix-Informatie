@@ -65,6 +65,12 @@ In Meetix is jouw leven echt superbelangrijk. Dus het is echt van groot belang d
 Zit je in een bewegend voertuig en richt iemand een wapen op je, dan mag je door blijven rijden. 
 Dit is niet het geval wanneer je (bijna) stil staat.
 
+- Het niet naleven van deze regel zal worden bestraft het volgende
+
+Je complete inventory zal ingeleverd dienen te worden bij het management team.
+Er zal je een boete ter waarde van €100.000,- ten laste gelegd worden die betaald dient te worden bij het management-team.
+Er zal na je ban een 1 maand verbod liggen op het kopen van ook maar één ding bij de wapendealer.
+
 ## 1.8 - Meta-gaming
 
 1. Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. 
