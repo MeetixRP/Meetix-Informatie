@@ -377,9 +377,9 @@ Vanaf start tot inleverlocatie ben je verplicht alle goederen bij je te houden.
 -  Onder overvallen bedoelen wij : Overvallen van elk soort met betrekking tot winkels, banken en andere overvalbare locaties.
 ook met de voorbereiding hiervan is het niet toegestaan om bovengenoemde voertuigen in te zetten.
 
-## 2.2.1 - Groningen Wetboek
+## 2.2.1 - Wetten
 
-Het overheidsbeleid van Groningen is altijd leidend boven de Nederlandse wet (in-game). Advocaten dienen hier goed op te letten.
+In-game hanteren wij de Nederlandse wet. Behalve als dit anders is aangegeven in de server-regels
 
 ## 2.2.2 - Ingame-bewijzen/brevetten
 
