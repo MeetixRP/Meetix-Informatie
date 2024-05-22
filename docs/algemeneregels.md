@@ -533,8 +533,8 @@ Om een veilige en realistische roleplay-ervaring te waarborgen, hanteren we stri
   - **Belangrijk:**
     - Hoewel **Red Zones** meer vrijheden bieden voor criminele activiteiten, herinneren we alle spelers eraan dat de algemene serverregels en gedragscodes te allen tijde gerespecteerd dienen te worden.  Het management behoudt zich het recht voor om in te grijpen bij gedrag dat als excessief of schadelijk wordt beschouwd.
       
-    - Het is nog steeds verplicht om fouilleren te accepteren!
-  - Dit betekend dus dat jij je niet aan de Roleplay regels hoeft te houden. Je mag spelers zonder reden afschieten, je kunt het zien als een 'combat zone'. Natuurlijk blijft het wel de bedoeling dat je je gedraagt, dus overdrijf hier niet in!
+    - Je diend nog steeds ondershothouding te respecteren! Ook mag je een fouillieer verzoek terwijl je onder schot gehouden wordt **niet** weigeren
+  - Dit betekend dus dat jij je niet aan de 'alle' Roleplay regels hoeft te houden. Je mag spelers zonder reden afschieten, je kunt het zien als een 'combat zone'. Natuurlijk blijft het wel de bedoeling dat je je gedraagt, dus overdrijf hier niet in!
 
   - #### De volgende 'zones' vallen onder een 'Red zone':
      - Het eiland (Cayo perico)
