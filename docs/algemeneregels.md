@@ -532,6 +532,7 @@ Om een veilige en realistische roleplay-ervaring te waarborgen, hanteren we stri
   - In tegenstelling tot **Green Zones**, staan **Red Zones** toe dat spelers zich overgeven aan criminele activiteiten, inclusief maar niet beperkt tot limietloos scammen, gijzelnemen, schieten op andere spelers, en het uitvoeren van overvallen. We moedigen spelers aan om zich verantwoordelijk te gedragen en te onthouden van acties die de spelervaring van anderen ernstig kunnen beïnvloeden of schaden.
   - **Belangrijk:**
     - Hoewel **Red Zones** meer vrijheden bieden voor criminele activiteiten, herinneren we alle spelers eraan dat de algemene serverregels en gedragscodes te allen tijde gerespecteerd dienen te worden.  Het management behoudt zich het recht voor om in te grijpen bij gedrag dat als excessief of schadelijk wordt beschouwd.
+      
     - Het is nog steeds verplicht om fouilleren te accepteren!
   - Dit betekend dus dat jij je niet aan de Roleplay regels hoeft te houden. Je mag spelers zonder reden afschieten, je kunt het zien als een 'combat zone'. Natuurlijk blijft het wel de bedoeling dat je je gedraagt, dus overdrijf hier niet in!
 
