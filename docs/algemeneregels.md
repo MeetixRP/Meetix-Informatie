@@ -39,12 +39,21 @@ De overtreding van Wet 1.3 (Verstoring van RP) zal resulteren in een straf van d
 
 ## 1.4 - Random Deathmatch (RDM)
 
-Onder de categorie "RDM" valt het vermoorden van een speler zonder enige intentie van kwalitatieve roleplay. Iemand dient ten alle tijden een mogelijkheid hebben om er iets tegen in ruil te doen.
-Het vermoorden van iemand doormiddel van het naar iemand toelopen, hostagen en gelijk doodschieten is dus ten alle tijden verboden en gaat tegen de regels in.
+Onder de categorie "RDM" valt het vermoorden van een speler zonder enige intentie van kwalitatieve roleplay. De volgende situaties vallen onder RDM:
 
-Het onnodig naschieten om iemand de kans tot overleven te ontnemen is tevens niet toegestaan
-Dit wil zeggen dat wanneer iemand is overmeesterd of geen dreiging meer vormt je hem niet mag afschieten.
-Is de tegenpartij in een shoot-out wel een dreiging (kan hij nog schieten o.i.d.) mag je deze persoon wel het leven ontnemen
+1. **Willekeurige Aanvallen**: Aanvallen of doden van een andere speler zonder een legitieme reden of context binnen het roleplay scenario. Dit betekent dat er geen voorafgaande interactie, conflict of logische aanleiding is voor de aanval.
+
+2. **Gebrek aan Motief**: Er moet een geloofwaardig en logisch motief zijn voor een gewelddadige actie binnen de context van het roleplay. Als dit ontbreekt, wordt het als RDM beschouwd.
+
+3. **Ongeprovoceerde Aanvallen**: Spelers die zonder enige vorm van provocatie anderen aanvallen of doden, schenden de RDM regel.
+
+4. **Geen Waarschuwingssignalen**: Het uitvoeren van dodelijke acties zonder enige waarschuwing of escalatie die logisch voortvloeit uit de roleplay situatie.
+
+5. **Geen Roleplay Context**: Acties die puur gericht zijn op het verkrijgen van een voordeel of het verstoren van de gameplay van anderen zonder dat het past binnen een roleplay scenario.
+
+Daarnaast dient iemand ten alle tijden een mogelijkheid te hebben om iets terug te doen. Het vermoorden van iemand door middel van het naar iemand toelopen, gijzelen en direct doodschieten is dus ten alle tijden verboden en gaat tegen de regels in.
+
+Het onnodig naschieten om iemand de kans tot overleven te ontnemen is tevens niet toegestaan. Dit wil zeggen dat wanneer iemand is overmeesterd of geen dreiging meer vormt, je hem niet mag afschieten. Als de tegenpartij in een shoot-out echter nog een directe dreiging vormt (bijvoorbeeld als hij nog kan schieten), mag je deze persoon wel het leven ontnemen. In alle gevallen moet je altijd proberen geweld te vermijden en eerst andere oplossingen zoeken.
 
 ## 1.5 - Vehicle Deathmatch (VDM)
 
