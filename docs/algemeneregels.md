@@ -460,12 +460,6 @@ Een enkel voorbeeld is het sneller opstaan doormiddel van een emote.
 
 De overtreding van Wet 2.3.2 (Emote abuse) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 2.3.3 - AFK staan
-
-Het is niet toegestaan om afwezig te zijn van je device terwijl je aanwezig bent in Groningen. Het AFK produceren en inpakken is ook niet toegestaan. Je dient ten alle tijden aanspreekbaar te zijn.
-
-De overtreding van Wet 2.3.3 (AFK staan) zal resulteren in een warn en na 2 warns zul je een straf van de 1ᵉ categorie kunnen ontvangen.
-
 ## 2.3.4 - Veilingen
 
 1. Het is niet toegestaan om transacties te maken vanaf de aankondiging van een veiling (tenzij anders is aangegeven). Dit is niet toegestaan op geen enkele manier dus ook niet via kluizen of kofferbakken.
