@@ -1,6 +1,6 @@
 # Algemene server regels:
 
-
+-
 ## Account en gebruik:
 
 1. Het gebruik maken van mods (crosshairs, cheat etc) is niet toegestaan. Het gebruik maken van een soundpack (met als voorbeeld: wapen geluiden, voertuig geleden enzovoort) en het gebruik maken van een realistische visual pack (graphics mods). Alle modificaties die leiden tot een voordeel zijn verboden. Hieronder vallen onder andere een 4:3 ratio instellen op een 16:9 scherm en een reshade om mensen beter te zien.
@@ -13,6 +13,7 @@
 
 5. Het verhandelen van goederen voor echt geld, denk hierbij aan wapens, voertuigen of andere dingen is ten strengste verboden.
 
+-
 ## Roleplay regels:
 Wanneer je in game bent dien je tijd alle tijde in charakter te blijven. en mag je in geen geval je charakter verbreken, met als enigste uitzondering als er staff bij staat.
 Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee word bedoeld dat wat in het echte leven niet gebeurd, Hier ook niet gedaan word.
@@ -29,6 +30,7 @@ Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee
 
 7. Het gebruik maken van /me is enkel toegestaan in ambu-roleplay of wanneer staff je hiernaar vraagt (uitzondering op het aangeven dat je relogged door bijvoorbeeld mic problemen.
 
+-
 # **Leven** #
 In Meetix is jouw leven belangrijk. Het is echt een groot belang dat je om je eigen leven geeft. Indien er iemand een wapen op je richt, werk dan alsjeblieft mee. Indien je niet meewerkt, wordt het gezien als NVOL (No value of life)
 
@@ -40,6 +42,7 @@ In Meetix is jouw leven belangrijk. Het is echt een groot belang dat je om je ei
 
 4. Indien je in een bewegend voertuig zit, en iemand richt een vuurwapen op je, mag je door blijven rijden. Dit is niet het geval wanneer je (bijna) stilstaat.
 
+-
 **Na overlijden:**
 1. Je personage behoudt geen herinneringen aan de gebeurtenissen die hebben geleid tot zijn of haar dood (Dit ook niet wanneer dit verteld is aan je door bijvoorbeeld een vriend)
 
@@ -77,28 +80,46 @@ Als je met spoed moet vertrekken, vraag dan toestemming aan staff. Anders kun je
 23. Het dragen van gezichts bedekkende kleding is enkel toegestaan wanneer jij actief bezig bent met criminele activiteiten (bijvoorbeeld tijdens een overval) en niet hierbuiten.
 
 
-
+-
 ## Onderwereld:
-1. Iemand vermoorden zonder goede reden of zonder dat het past binnen het roleplay-verhaal, is niet toegestaan. Daarnaast moet iemand altijd de kans krijgen om iets terug te doen. Iemand doodschieten zonder waarschuwing, door naar iemand toe te lopen, te gijzelen en meteen dood te schieten, is verboden en tegen de regels. 
+1. Iemand vermoorden zonder goede reden of zonder dat het past binnen het roleplay-verhaal, is niet toegestaan. Daarnaast moet iemand altijd de kans krijgen om iets terug te doen. Iemand doodschieten zonder waarschuwing, door naar iemand toe te lopen, te gijzelen en meteen dood te schieten, is verboden en tegen de regels.
+
 2. Het is niet toegestaan om de vrijheid van andere spelers voor een periode van langer dan 30 minuten in het spel te beperken zonder dat er een geldig scenario is gestart. Tevens is het niet toegestaan om ANWB'ers in dienst, Ambulanciers in dienst, mensen die actief een UWV aan het uitvoeren zijn (voorbeelden: Bierbrouwers, Metaal verkopers, steenwassers enzovoort) en in dienst verkopers van officiële car dealers.
+
 3. Groeperingen mogen alleen samenwerken als het totaal aantal leden niet meer betreft als 15 (beide groepen!). Je mag met maximaal 1 andere groepering samenwerken. Tevens is het maximale ledenaantal voor groeperingen beperkt tot 15. 
+
 4. Aan het vastbinden van iemand met tie-wrap of handboeien dient ten alle tijden goede roleplay gekoppeld te zijn.
+
 5. Om buitensporige bedragen rondom vuurwapens tegen te gaan, zit er een maximale verkoopwaarde hier aan. Dit is te zien op de volgende link: Wapenprijzen
+
 6. Er dient altijd een goede reden te zijn om iemand te rippen. Het zien praten met een NPC, is niet voldoende reden om een persoon hier te overvallen.
+
 7. Het is niet toegestaan om illegale goederen (drugs, wapens & witwas praktijken) te ver handelen via openbare apps op de telefoon (marktplaats, instagram etc). De enige uitzondering hierin is via privé berichten en de darkweb.
+
 8. Het produceren, kweken of generen van illegale goederen in custom gebouwen is niet toegestaan. Ook is het niet toegestaan om te produceren op daken die niet toegankelijk zijn zonder helikopters/vliegtuigen. Plaatsen van tuin-tafels is niet toegestaan op de openbare weg en/of gebouwen. 
+
 9. Tijdens het witwassen is het niet toegestaan om het geld door te geven aan een ander. Vanaf start tot inleverlocatie ben je verplicht alle goederen bij je te houden.
+
 10. Zodra een persoon een geldige bodycam draagt op zijn kleding, mag dit gebruikt worden als officieel bewijsmateriaal. Hierbij geldt ook dat op voertuigen een dashcam zit. Zodra een persoon overleden is, dan dient deze bewijsmateriaal door een ander gepakt te worden (d.m.v. /me) om daadwerkelijk geldig verklaard te worden.
+
 11. Het is enkel toegestaan om te vluchten van een overheidsinstantie indien er sprake is van ernstige criminele activiteiten zoals betrokkenheid bij geweldsdilecten. Het ontwijken van een overheidsinstantie omdat je door rood rijd, of te snel rijd, is niet toegestaan. Een reden als "Ik denk dat ik een VTA kan hebben" valt hier ook onder. Enkel zeker weten is een geldige reden
+
 12. Het dragen van gezichtsbedekkende kleding is enkel toegestaan wanneer je bezig bent met criminele activiteiten. Indien je niet in een crimineel roleplay scenario zit dien je je gezichtsbedekkende kleding per direct uit/af te doen.
 
-
-
+-
 ## Bovenwereld
+
 1. In-game hanteren wij de Nederlandse wet. Behalve als dit anders is aangegeven in de server regels.
+
 2. In-game passen, zoals vliegbrevet & de WWM (SVG), zijn geldig binnen de RP. Er zijn specifieke regels vastgesteld met betrekking tot het gebruik van deze passen. Het niet naleveren van deze regels kan leiden tot intrekken van de pas en mogelijke bijkomende sancties. Het vliegen zonder brevet is niet toegestaan. 
+
 3. Het forceren van een job menu van iemand die bij de overheid is niet toegestaan. Een enkel voorbeeld is hiervan bijvoorbeeld dat een agent over handboeien beschikt, die hij niet mag gebruiken in het voordeel van de crimineel om bijvoorbeeld burgers in de boeien te slaan. Het forceren om iemand zijn wapens af te pakken via het fouilleren is ook tegen de regels en valt onder dezelfde regel. Echter mogen deuren van HB/de cellen wel open geforceerd worden.
+
 4. Het uitvoeren van corruptie als overheidsdienst is ten strengste verboden. Voordelen gebruiken die jij hebt als overheidsdienst hebt om hiermee om winst te maken is niet toegestaan. Het reanimeren van iemand die overleden is of spullen halen uit een kluis onder welke omstandigheden ook zonder toestemming van een hogere. 
+
 5. Indien je standaard uniform van de politie aan hebt of in een overheidsvoertuig rijd, heb je een dashcam. Zodra een persoon overleden is, dan dient deze bewijsmateriaal door een ander gepakt te worden (d.m.v /me) om daadwerkelijk geldig verklaard te worden.
+
 6. Het is niet toegestaan om transacties te maken vanaf de aankondiging van een veiling, dus ook niet via een kluis of een kofferbak. Het organiseren van een veiling is ook niet zomaar toegestaan. Dit is enkel toegankelijk voor het evenement team en niet voor normale spelers zonder toestemming.
+
 7. Politie mag ook niet met meer dan 15 agenten tegelijk aan een scenario koppelen (zelfde regel als criminelen)
+
