@@ -1,7 +1,7 @@
 # Algemene server regels:
 
 
-**Account en gebruik:**
+## Account en gebruik:
 
 1. Het gebruik maken van mods (crosshairs, cheat etc) is niet toegestaan. Het gebruik maken van een soundpack (met als voorbeeld: wapen geluiden, voertuig geleden enzovoort) en het gebruik maken van een realistische visual pack (graphics mods). Alle modificaties die leiden tot een voordeel zijn verboden. Hieronder vallen onder andere een 4:3 ratio instellen op een 16:9 scherm en een reshade om mensen beter te zien.
 
@@ -28,11 +28,6 @@ Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee
 6. Wanneer je 'buitenwesten' (dood) bent gegaan en door een ambulance wordt behandeld of omhoog geholpen, is het niet meer toegestaan om terug te koppelen aan dit specifieke scenario.
 
 7. Het gebruik maken van /me is enkel toegestaan in ambu-roleplay of wanneer staff je hiernaar vraagt (uitzondering op het aangeven dat je relogged door bijvoorbeeld mic problemen.
-
-**De volgende regels:**
-*1.15 New life rule
-1.7 value of LIfe*
-**Naar:**
 
 # **Leven** #
 In Meetix is jouw leven belangrijk. Het is echt een groot belang dat je om je eigen leven geeft. Indien er iemand een wapen op je richt, werk dan alsjeblieft mee. Indien je niet meewerkt, wordt het gezien als NVOL (No value of life)
