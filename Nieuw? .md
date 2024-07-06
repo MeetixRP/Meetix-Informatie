@@ -1,43 +1,85 @@
 # Algemene server regels:
 
+
+**Account en gebruik:**
+
+1. Het gebruik maken van mods (crosshairs, cheat etc) is niet toegestaan. Het gebruik maken van een soundpack (met als voorbeeld: wapen geluiden, voertuig geleden enzovoort) en het gebruik maken van een realistische visual pack (graphics mods). Alle modificaties die leiden tot een voordeel zijn verboden. Hieronder vallen onder andere een 4:3 ratio instellen op een 16:9 scherm en een reshade om mensen beter te zien.
+
+2. Het gebruik maken van een combat pack is in dit geval ook niet toegestaan.
+
+3. Het gebruik maken van enige exploits is ten alle tijden verboden. Hiermee bedoelen wij bug abuse of andere vormen van het oneerlijk genereren van voordelen in Meetix.
+ 
+4. Het weggegeven van je spullen aan een vriend(in) omdat je stopt met Meetix is niet toegestaan. Het aannemen van deze goederen is ook verboden. 
+
+5. Het verhandelen van goederen voor echt geld, denk hierbij aan wapens, voertuigen of andere dingen is ten strengste verboden.
+
 ## Roleplay regels:
 Wanneer je in game bent dien je tijd alle tijde in charakter te blijven. en mag je in geen geval je charakter verbreken, met als enigste uitzondering als er staff bij staat.
 Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee word bedoeld dat wat in het echte leven niet gebeurd, Hier ook niet gedaan word.
 
 1. Het gebruik maken van bugs of glitches is niet toegestaan.
+
 2. Het door rennen nadat je in je benen bent geschoten is niet toegestaan. (uitzondering op langszaam lopen) 
+
 3. Het gebruik maken van een portofoon tijdens zwemmen is niet toegestaan.
+
 5. Spelers dienen actief mee te werken aan de roleplay en mogen niet bewust proberen om de situatie onredelijk te verlengen om hun rolvoordeel te vergroten. " Ik rek tijd omdat mijn vrienden dan komen" is hierdoor geen geldige reden
+
 6. Wanneer je 'buitenwesten' (dood) bent gegaan en door een ambulance wordt behandeld of omhoog geholpen, is het niet meer toegestaan om terug te koppelen aan dit specifieke scenario.
+
 7. Het gebruik maken van /me is enkel toegestaan in ambu-roleplay of wanneer staff je hiernaar vraagt (uitzondering op het aangeven dat je relogged door bijvoorbeeld mic problemen.
 
-**Na overlijden:**
+**De volgende regels:**
+*1.15 New life rule
+1.7 value of LIfe*
+**Naar:**
 
-8. Je mag niet uitloggen binnen 15 minuten na een roleplayscenario. Dit geldt voor interacties, gevechten, achtervolgingen, enz. Je moet 15 minuten in de server blijven en de situatie afhandelen.
+# **Leven** #
+In Meetix is jouw leven belangrijk. Het is echt een groot belang dat je om je eigen leven geeft. Indien er iemand een wapen op je richt, werk dan alsjeblieft mee. Indien je niet meewerkt, wordt het gezien als NVOL (No value of life)
+
+1. Indien er een steekwapen op je gericht word, dien je altijd mee te werken
+
+2. Bij een slagwapen zoals een knuppel mag je wegrennen indien je leven niet in direct gevaar is
+
+3.  Indien er een vuurwapen op je gericht word (binnen een straal van 15 meter), dien je mee te werken.
+
+4. Indien je in een bewegend voertuig zit, en iemand richt een vuurwapen op je, mag je door blijven rijden. Dit is niet het geval wanneer je (bijna) stilstaat.
+
+**Na overlijden:**
+1. Je personage behoudt geen herinneringen aan de gebeurtenissen die hebben geleid tot zijn of haar dood (Dit ook niet wanneer dit verteld is aan je door bijvoorbeeld een vriend)
+
+2. Je mag niet teruggaan naar de locatie van je dood om wraak te nemen of je oude vijanden te confronteren. 
+
+3. Het is ook verboden om acties te ondernemen tegenover degenen die betrokken waren bij je dood.
+
+4. Wanneer je van het leven beroofd bent is het de komende 24 uur niet toegestaan om deel te nemen aan een roleplay scenario tegenover de groep, gang of persoon waardoor je vermoord bent.
+
+5. Je mag niet uitloggen binnen 15 minuten na een roleplayscenario. Dit geldt voor interacties, gevechten, achtervolgingen, enz. Je moet 15 minuten in de server blijven en de situatie afhandelen.
 Als je met spoed moet vertrekken, vraag dan toestemming aan staff. Anders kun je een sanctie krijgen.
 
-9. Het is niet toegestaan om als speler een roleplay scenario te stoppen, Ook niet als de tegen partij een fout maakt, Enkel een stafflid mag dit.
-10. Het verstoren van andermans scenario's is niet toegestaan (dit wil zeggen "klootgedrag" of ander verstorend gedrag.
+6. Het is niet toegestaan om als speler een roleplay scenario te stoppen, Ook niet als de tegen partij een fout maakt, Enkel een stafflid mag dit.
+7. Het verstoren van andermans scenario's is niet toegestaan (dit wil zeggen "klootgedrag" of ander verstorend gedrag.
 
-11. Het herkennen van een persoon aan stem is toegestaan wanneer persoon geen voice-changer gebruikt.
-12. Voice-changers zijn enkel toegestaan om een RP scenario kracht bij te zetten (in onderhandelingen bijvoorbeeld) continu gebruik hiervan is echter niet toegestaan.
+9. Het herkennen van een persoon aan stem is toegestaan wanneer persoon geen voice-changer gebruikt.
+10. Voice-changers zijn enkel toegestaan om een RP scenario kracht bij te zetten (in onderhandelingen bijvoorbeeld) continu gebruik hiervan is echter niet toegestaan.
  
-13. Het is ten alle tijden verboden om mensen te beledigen door hun afkomst, godsdienst, taal, huidskleur of andere soortgelijke dingen.
-14. Het gebruik maken van hedendaagse ziektes of hiermee beledigen van spelers is ook niet toegestaan. je dient ten alle tijd elkaar met respect aan te spreken en te behandelen.
+11. Het is ten alle tijden verboden om mensen te beledigen door hun afkomst, godsdienst, taal, huidskleur of andere soortgelijke dingen.
 
-15. Het is niet toegestaan om je voertuig te plaatsen in een garage om een inbeslagname of rip actie te voorkomen.
-16. Tijdens het produceren van drugs is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan ten alle tijden uit de garage te laten of je drugs ergens anders op te slaan.
-17. Tijdens een lopend of recent beeindigd scnerario is het niet toegestaan om je spullen te door te geven aan en ander of op te slaan (in bijvoorbeeld kluizen en huizen) voor een tijd van 15 minuten (ook wel combatstoring genoemd)
-18. Inbeslag genomen goederen (wapens of drugs) moet door de agent 15 minuten bij zich gehouden worden. voordat hij het in de kluis mag stoppen. (uitzondering wanneer een strafzaak compleet afgerond is)
+12. Het gebruik maken van hedendaagse ziektes of hiermee beledigen van spelers is ook niet toegestaan. je dient ten alle tijd elkaar met respect aan te spreken en te behandelen.
 
-19. Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. Wanneer je met mensen in een voice channel zit die binnen meetix spelen is het niet toegestaan om te streamen en dien je gemute en gedeafened te zijn.
-20. Het is ten strengste verboden om de livestreams, opnames of andere content van spelers van de server te gebruiken in RP in elke vorm
+13. Het is niet toegestaan om je voertuig te plaatsen in een garage om een inbeslagname of rip actie te voorkomen.
+14. Tijdens het produceren van drugs is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan ten alle tijden uit de garage te laten of je drugs ergens anders op te slaan.
+15. Tijdens een lopend of recent beeindigd scnerario is het niet toegestaan om je spullen te door te geven aan en ander of op te slaan (in bijvoorbeeld kluizen en huizen) voor een tijd van 15 minuten (ook wel combatstoring genoemd)
+16. Inbeslag genomen goederen (wapens of drugs) moet door de agent 15 minuten bij zich gehouden worden. voordat hij het in de kluis mag stoppen. (uitzondering wanneer een strafzaak compleet afgerond is)
 
-21. Het dragen van kleding dat gebugged of onrealistische kleding (legerhelmen, eenhoornmaskers etc.) is niet toegestaan. 
-22. Het dragen van de zogenoemde "skinhead" outfit is niet toegestaan, je dient altijd je karakter aan te passen wanneer je nieuw in de stad komt.
-23. Het dragen van Legeroutfits en het dragen van outfits horende bij een overheidsbaan is niet toegestaan
-24. Het dragen van een helm is enkel toegestaan wanneer je op een motor rijd. en dus niet in auto's of wanneer je openbaar loopt
-25. Het dragen van gezichts bedekkende kleding is enkel toegestaan wanneer jij actief bezig bent met criminele activiteiten (bijvoorbeeld tijdens een overval) en niet hierbuiten.
+17. Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. Wanneer je met mensen in een voice channel zit die binnen meetix spelen is het niet toegestaan om te streamen en dien je gemute en gedeafened te zijn.
+18. Het is ten strengste verboden om de livestreams, opnames of andere content van spelers van de server te gebruiken in RP in elke vorm
+
+19. Het dragen van kleding dat gebugged of onrealistische kleding (legerhelmen, eenhoornmaskers etc.) is niet toegestaan. 
+20. Het dragen van de zogenoemde "skinhead" outfit is niet toegestaan, je dient altijd je karakter aan te passen wanneer je nieuw in de stad komt.
+21. Het dragen van Legeroutfits en het dragen van outfits horende bij een overheidsbaan is niet toegestaan
+22. Het dragen van een helm is enkel toegestaan wanneer je op een motor rijd. en dus niet in auto's of wanneer je openbaar loopt
+23. Het dragen van gezichts bedekkende kleding is enkel toegestaan wanneer jij actief bezig bent met criminele activiteiten (bijvoorbeeld tijdens een overval) en niet hierbuiten.
 
 
 
