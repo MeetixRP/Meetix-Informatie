@@ -90,7 +90,7 @@ Als je met spoed moet vertrekken, vraag dan toestemming aan staff. Anders kun je
 
 4. Aan het vastbinden van iemand met tie-wrap of handboeien dient ten alle tijden goede roleplay gekoppeld te zijn.
 
-5. Om buitensporige bedragen rondom vuurwapens tegen te gaan, zit er een maximale verkoopwaarde hier aan. Dit is te zien op de volgende link: Wapenprijzen
+5. Om buitensporige bedragen rondom vuurwapens tegen te gaan, zit er een maximale verkoopwaarde hier aan. Dit is te zien op de volgende link: [Wapenprijzen](https://docs.google.com/spreadsheets/d/1BFDMLMMLSbPbkiybLvzf6KQwGBwWe3NEEW2Pbxjcw6c/edit?usp=sharing)
 
 6. Er dient altijd een goede reden te zijn om iemand te rippen. Het zien praten met een NPC, is niet voldoende reden om een persoon hier te overvallen.
 
