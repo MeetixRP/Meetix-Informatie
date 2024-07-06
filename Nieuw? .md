@@ -12,6 +12,7 @@ Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee
 7. Het gebruik maken van /me is enkel toegestaan in ambu-roleplay of wanneer staff je hiernaar vraagt (uitzondering op het aangeven dat je relogged door bijvoorbeeld mic problemen.
 
 **Na overlijden:**
+
 8. Je mag niet uitloggen binnen 15 minuten na een roleplayscenario. Dit geldt voor interacties, gevechten, achtervolgingen, enz. Je moet 15 minuten in de server blijven en de situatie afhandelen.
 Als je met spoed moet vertrekken, vraag dan toestemming aan staff. Anders kun je een sanctie krijgen.
 
