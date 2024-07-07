@@ -1,20 +1,22 @@
 # Algemene server regels:
-
--
+ 
+ 
 ## Account en gebruik:
-
+ 
 1. Het gebruik maken van mods (crosshairs, cheat etc) is niet toegestaan. Het gebruik maken van een soundpack (met als voorbeeld: wapen geluiden, voertuig geleden enzovoort) en het gebruik maken van een realistische visual pack (graphics mods). Alle modificaties die leiden tot een voordeel zijn verboden. Hieronder vallen onder andere een 4:3 ratio instellen op een 16:9 scherm en een reshade om mensen beter te zien.
 
 2. Het gebruik maken van een combat pack is in dit geval ook niet toegestaan.
 
 3. Het gebruik maken van enige exploits is ten alle tijden verboden. Hiermee bedoelen wij bug abuse of andere vormen van het oneerlijk genereren van voordelen in Meetix.
  
-4. Het weggegeven van je spullen aan een vriend(in) omdat je stopt met Meetix is niet toegestaan. Het aannemen van deze goederen is ook verboden. 
+4.  Het weggegeven van je spullen aan een vriend(in) omdat je stopt met Meetix is niet toegestaan. Het verkopen van goederen voor een extreem lage prijs is ook niet toegestaan, evenals het aannemen van deze goederen.
 
 5. Het verhandelen van goederen voor echt geld, denk hierbij aan wapens, voertuigen of andere dingen is ten strengste verboden.
-
--
+ 
+ 
+ 
 ## Roleplay regels:
+ 
 Wanneer je in game bent dien je tijd alle tijde in charakter te blijven. en mag je in geen geval je charakter verbreken, met als enigste uitzondering als er staff bij staat.
 Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee word bedoeld dat wat in het echte leven niet gebeurd, Hier ook niet gedaan word.
 
@@ -29,11 +31,12 @@ Je moet altijd proberen zo realistisch mogelijk charakter aan te houden, Hiermee
 6. Wanneer je 'buitenwesten' (dood) bent gegaan en door een ambulance wordt behandeld of omhoog geholpen, is het niet meer toegestaan om terug te koppelen aan dit specifieke scenario.
 
 7. Het gebruik maken van /me is enkel toegestaan in ambu-roleplay of wanneer staff je hiernaar vraagt (uitzondering op het aangeven dat je relogged door bijvoorbeeld mic problemen.
-
--
+ 
+ 
+ 
 # **Leven** #
 In Meetix is jouw leven belangrijk. Het is echt een groot belang dat je om je eigen leven geeft. Indien er iemand een wapen op je richt, werk dan alsjeblieft mee. Indien je niet meewerkt, wordt het gezien als NVOL (No value of life)
-
+ 
 1. Indien er een steekwapen op je gericht word, dien je altijd mee te werken
 
 2. Bij een slagwapen zoals een knuppel mag je wegrennen indien je leven niet in direct gevaar is
@@ -41,9 +44,11 @@ In Meetix is jouw leven belangrijk. Het is echt een groot belang dat je om je ei
 3.  Indien er een vuurwapen op je gericht word (binnen een straal van 15 meter), dien je mee te werken.
 
 4. Indien je in een bewegend voertuig zit, en iemand richt een vuurwapen op je, mag je door blijven rijden. Dit is niet het geval wanneer je (bijna) stilstaat.
-
--
+ 
+ 
+ 
 **Na overlijden:**
+ 
 1. Je personage behoudt geen herinneringen aan de gebeurtenissen die hebben geleid tot zijn of haar dood (Dit ook niet wanneer dit verteld is aan je door bijvoorbeeld een vriend)
 
 2. Je mag niet teruggaan naar de locatie van je dood om wraak te nemen of je oude vijanden te confronteren. 
@@ -66,25 +71,34 @@ Als je met spoed moet vertrekken, vraag dan toestemming aan staff. Anders kun je
 12. Het gebruik maken van hedendaagse ziektes of hiermee beledigen van spelers is ook niet toegestaan. je dient ten alle tijd elkaar met respect aan te spreken en te behandelen.
 
 13. Het is niet toegestaan om je voertuig te plaatsen in een garage om een inbeslagname of rip actie te voorkomen.
+
 14. Tijdens het produceren van drugs is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan ten alle tijden uit de garage te laten of je drugs ergens anders op te slaan.
-15. Tijdens een lopend of recent beeindigd scnerario is het niet toegestaan om je spullen te door te geven aan en ander of op te slaan (in bijvoorbeeld kluizen en huizen) voor een tijd van 15 minuten (ook wel combatstoring genoemd)
+
+15. Tijdens een lopend of recent beeindigd scenario is het niet toegestaan om je spullen door te geven aan een ander of op te slaan (in bijvoorbeeld kluizen, huizen of dashboard/kofferbak van een voertuig ) voor een tijd van 15 minuten (ook wel combatstoring genoemd)
+
 16. Inbeslag genomen goederen (wapens of drugs) moet door de agent 15 minuten bij zich gehouden worden. voordat hij het in de kluis mag stoppen. (uitzondering wanneer een strafzaak compleet afgerond is)
 
 17. Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. Wanneer je met mensen in een voice channel zit die binnen meetix spelen is het niet toegestaan om te streamen en dien je gemute en gedeafened te zijn.
+
 18. Het is ten strengste verboden om de livestreams, opnames of andere content van spelers van de server te gebruiken in RP in elke vorm
 
 19. Het dragen van kleding dat gebugged of onrealistische kleding (legerhelmen, eenhoornmaskers etc.) is niet toegestaan. 
+
 20. Het dragen van de zogenoemde "skinhead" outfit is niet toegestaan, je dient altijd je karakter aan te passen wanneer je nieuw in de stad komt.
+
 21. Het dragen van Legeroutfits en het dragen van outfits horende bij een overheidsbaan is niet toegestaan
+
 22. Het dragen van een helm is enkel toegestaan wanneer je op een motor rijd. en dus niet in auto's of wanneer je openbaar loopt
+
 23. Het dragen van gezichts bedekkende kleding is enkel toegestaan wanneer jij actief bezig bent met criminele activiteiten (bijvoorbeeld tijdens een overval) en niet hierbuiten.
-
-
--
+ 
+ 
+ 
 ## Onderwereld:
+ 
 1. Iemand vermoorden zonder goede reden of zonder dat het past binnen het roleplay-verhaal, is niet toegestaan. Daarnaast moet iemand altijd de kans krijgen om iets terug te doen. Iemand doodschieten zonder waarschuwing, door naar iemand toe te lopen, te gijzelen en meteen dood te schieten, is verboden en tegen de regels.
 
-2. Het is niet toegestaan om de vrijheid van andere spelers voor een periode van langer dan 30 minuten in het spel te beperken zonder dat er een geldig scenario is gestart. Tevens is het niet toegestaan om ANWB'ers in dienst, Ambulanciers in dienst, mensen die actief een UWV aan het uitvoeren zijn (voorbeelden: Bierbrouwers, Metaal verkopers, steenwassers enzovoort) en in dienst verkopers van officiële car dealers.
+2. Het is niet toegestaan om de vrijheid van andere spelers voor een periode van langer dan 30 minuten in het spel te beperken zonder dat er een geldig scenario is gestart. Tevens is het niet toegestaan om ANWB'ers, GroningenTV, Ambulanciers, mensen die actief een UWV aan het uitvoeren zijn (voorbeelden: Bierbrouwers, Metaal verkopers, steenwassers enzovoort) en in dienst verkopers van officiële car dealers te hostagen
 
 3. Groeperingen mogen alleen samenwerken als het totaal aantal leden niet meer betreft als 15 (beide groepen!). Je mag met maximaal 1 andere groepering samenwerken. Tevens is het maximale ledenaantal voor groeperingen beperkt tot 15. 
 
@@ -105,10 +119,11 @@ Als je met spoed moet vertrekken, vraag dan toestemming aan staff. Anders kun je
 11. Het is enkel toegestaan om te vluchten van een overheidsinstantie indien er sprake is van ernstige criminele activiteiten zoals betrokkenheid bij geweldsdilecten. Het ontwijken van een overheidsinstantie omdat je door rood rijd, of te snel rijd, is niet toegestaan. Een reden als "Ik denk dat ik een VTA kan hebben" valt hier ook onder. Enkel zeker weten is een geldige reden
 
 12. Het dragen van gezichtsbedekkende kleding is enkel toegestaan wanneer je bezig bent met criminele activiteiten. Indien je niet in een crimineel roleplay scenario zit dien je je gezichtsbedekkende kleding per direct uit/af te doen.
-
--
+ 
+ 
+ 
 ## Bovenwereld
-
+ 
 1. In-game hanteren wij de Nederlandse wet. Behalve als dit anders is aangegeven in de server regels.
 
 2. In-game passen, zoals vliegbrevet & de WWM (SVG), zijn geldig binnen de RP. Er zijn specifieke regels vastgesteld met betrekking tot het gebruik van deze passen. Het niet naleveren van deze regels kan leiden tot intrekken van de pas en mogelijke bijkomende sancties. Het vliegen zonder brevet is niet toegestaan. 
