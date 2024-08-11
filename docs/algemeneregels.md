@@ -166,11 +166,10 @@ Het is ook verboden om acties te ondernemen tegenover degenen die betrokken ware
 
 ## 1.16 - Third Party Mods
 
-Het gebruik maken van mods (crosshairs, cheats etc.) of derden is niet toegestaan. Alleen visualpacks die niet to een voordeel lijden zijn toegestaan!
+Het gebruikmaken van mods (crosshairs, cheats, etc.) of derden is niet toegestaan. Alleen visual packs die niet tot een voordeel leiden, zijn toegestaan!
 
-Alle modificaties die leiden tot een voordeel zijn verboden.
-Hieronder vallen onder andere een 4:3 ratio instellen op een 16:9 scherm en een reshade zodat mensen beter te zien zijn.
-Een visualpack/reshade dient ter aller tijden geen voordeel te bieden. (Andere schaduws, wolken of render distance is verboden)
+Alle modificaties die leiden tot een voordeel zijn verboden. Hieronder vallen onder andere het instellen van een 4:3 ratio op een 16:9 scherm en een reshade waardoor mensen beter zichtbaar zijn. 
+Een visual pack/reshade mag te allen tijde geen voordeel bieden. (Andere schaduwen, wolken of render distance zijn verboden).
 
 De overtreding van Wet 1.16 (Third Party Mods) zal resulteren in een straf van de 9ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
